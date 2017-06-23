@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Dathe-Gymnasium</title>
+	<link rel="Stylesheet" href="static/css/indexV5.css" media="screen">
+	<style type="text/css">
+		.box {
+			border-radius: 7px;
+			border: 2px solid #006A32;
+			width: 300px;
+			height: 300px;
+			margin: 5px;
+		}
+		
+		.breit {
+			width: 620px;
+		}
+		
+		#center {
+			position: relative;
+			margin-right: auto;
+			margin-left: auto;
+			width: 640px;
+		}
+		
+		#head_bg {
+			width: 100%;
+		}
+		
+		button {
+			border-radius: 7px;
+			border: 2px solid #006A32;
+			height: 50px;
+			margin: 5px;
+			font-size: 20pt;
+		}
+	</style>
+	<script src="static/js/jquery-2.2.1.min.js"></script>
+	<script type="text/javascript">
+		var zaehler = 5; // Sekunden bis zur Weiterleitung
+		var weiter_zu = "http://www.b.shuttle.de/b/dathe-os/gesamt.php"; // Seite zu der weitergeleitet wird
+
+		function count_down() {
+			if (zaehler == 1) { // Zähler abgelaufen
+				$("#countdown").html("Weiterleitung...");
+				window.location.href = weiter_zu;
+
+			} else { // Weiter runterzählen
+				zaehler--;
+				$("#countdown").html(zaehler);
+			}
+		}
+		$(function () { // Sobald das document bereit ist, starten
+			window.setInterval('count_down()', 1000); // alle 1sec downcout() aufrufen
+		});
+	</script>
+</head>
+
+<body>
+	<img id="head_bg" src="./elemente/bg_ob.png" alt="">
+	<div id="center">
+		<img class="box" src="./elemente/intro1.jpg" alt="">
+		<img class="box" src="./elemente/intro2.jpg" alt="">
+		<br>
+		<img src="./elemente/intro3.jpg" class="breit box" alt="">
+		<button class="breit" onclick="document.location='gesamt.php';">Weiter (<span id="countdown">5</span>)</button>
+	</div>
+	<div>
+		<a href="http://validator.w3.org/check?uri=referer" style="background-color: transparent">
+			<img style="border-style:none" width="88" height="31" src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" /></a>
+		&nbsp;&nbsp;
+		<a href="http://jigsaw.w3.org/css-validator/check/referer" style="background-color: transparent">
+			<img style="border-style:none" width="88" height="31" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /></a>
+	</div>
+
+</body>
+
+</html>

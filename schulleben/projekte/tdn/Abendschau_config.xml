@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+   <config>
+      <hasToc type="Boolean">0</hasToc>
+      <hasAudio type="Boolean">1</hasAudio>
+      <hasAbout type="Boolean">0</hasAbout>
+      <hasFullscreen type="Boolean">1</hasFullscreen>
+      <hasPipOverlay type="Boolean">0</hasPipOverlay>
+      <startText><![CDATA[]]></startText>
+      <startLogo></startLogo>
+      <endLogo></endLogo>
+      <about>
+         <title><![CDATA[]]></title>
+         <titlecolor type="String">0x000000</titlecolor>
+         <backgroundcolor type="Number">0x666666</backgroundcolor>
+         <backgroundalpha type="Number">100</backgroundalpha>
+         <logo></logo>
+         <width>336</width>
+         <height>264</height>
+         <tabSelected>1</tabSelected>
+         <aboutMedia></aboutMedia>
+         <aboutText><![CDATA[]]></aboutText>
+         <infoText><![CDATA[]]></infoText>
+      </about>
+      <accessibility>
+         <startbutton>Begin Video</startbutton>
+         <playbutton>Play Toggle</playbutton>
+         <progressbutton>Progress bar Indicator</progressbutton>
+         <audiobutton>Audio Toggle</audiobutton>
+         <tocbutton>Table of Contents Toggle</tocbutton>
+         <volumeslider>Audio Indicator</volumeslider>
+         <fsbutton>Fullscreen Toggle</fsbutton>
+         <ccbutton>Closed Caption Toggle</ccbutton>
+         <infobutton>Information</infobutton>
+         <volumebutton>Volume Control</volumebutton>
+         <exitquizbutton>Exit Quiz</exitquizbutton>
+         <exitfeedbackbutton>Exit Question Feedback</exitfeedbackbutton>
+         <exitsummarybutton>Exit Question Feedback</exitsummarybutton>
+         <exitpreviewbutton>Exit Preview</exitpreviewbutton>
+         <infowindow>info window</infowindow>
+         <infoaboutbutton>about</infoaboutbutton>
+         <infoinfobutton>info</infoinfobutton>
+         <infoexitbutton>info window Exit</infoexitbutton>
+         <replaybutton>Replay Video </replaybutton>
+         <tocexitbutton>Table of Contents Exit</tocexitbutton>
+         <tocwindow>Table of Contents Window</tocwindow>
+      </accessibility>
+      <localSecurityWarning>
+         <title>Wichtig</title>
+         <message>Diese Aktion wird von den Sicherheitseinstellungen des Flash Players nicht erlaubt, wenn von der Festplatte oder von einer CD abgespielt wird. Sobald die Inhalte auf einen Webserver übertragen werden, sollte diese Fehlermeldung nicht mehr auftauchen und alles wie erwartet funktionieren.
+
+Für alle anderen Verbreitungsmethoden oder für weitere Information darüber, wie die Sicherheitseinstellungen von Flash Player diese Filminhalte beeinflussen, lesen Sie bitte das Kapitel &quot;Sicherheit für Flash Player&quot; in der Hilfedatei von Camtasia Studio. 
+
+
+
+ </message>
+      </localSecurityWarning>
+      <includeScoreInEmail type="Boolean">0</includeScoreInEmail>
+      <rememberQuizAnswers type="Number">0</rememberQuizAnswers>
+      <endAction>Stop</endAction>
+      <endActionParam></endActionParam>
+      <endActionTarget>_self</endActionTarget>
+      <volume type="Number">80</volume>
+      <brandedContextMenu type="Boolean">false</brandedContextMenu>
+      <hasCaptions type="Boolean">0</hasCaptions>
+      <captionsVisible type="Boolean">0</captionsVisible>
+      <caption>         
+         <font>
+            <type type="String">Microsoft Sans Serif</type>
+            <size type="Number">22</size>
+            <weight type="Boolean">0</weight>
+            <color type="Number">0xFFFFFF</color>
+            <cpl type="Number">32</cpl>
+         </font>
+         <panel>
+            <background>
+               <color type="Number">0x000000</color>
+               <alpha type="Number">50</alpha>
+            </background>
+         </panel>
+      </caption>
+      <video1>
+         <width type="Number">512</width>
+         <height type="Number">288</height>
+      </video1>
+      <toc>
+         <type type="Number">2</type>
+         <title></title>
+         <titlecolor type="String">0x000000</titlecolor>
+         <media></media>
+         <x type="Number">0</x>
+         <y type="Number">0</y>
+         <width type="Number">0</width>
+         <height type="Number">306</height>
+         <transparent type="Boolean">0</transparent>
+         <horizontalScroll type="Number">0</horizontalScroll>
+         <backgroundColor type="Number">0x666666</backgroundColor>
+         <alternatingRowColors>
+            <array>
+               <colors type="Number"></colors>
+               <colors type="Number"></colors>
+            </array></alternatingRowColors>
+         <rowDepthColors>
+            <array>
+               <colors type="Number"></colors>
+               <colors type="Number"></colors>
+            </array>
+         </rowDepthColors>
+         <rowRollOverColor type="Number">0xA4A4A4</rowRollOverColor>
+         <rowSelectedColor type="Number">0xC0C0C0</rowSelectedColor>
+         <rowIndentation>10</rowIndentation>
+         <borderStyle>inset</borderStyle>    
+         <textColor type="Number">0xFFFFFF</textColor>
+         <fontFamily>Arial</fontFamily>
+         <fontSize type="Number">12</fontSize>
+         <fontWeight>none</fontWeight>
+         <textAlign>left</textAlign>
+         <textDecoration>none</textDecoration>
+         <textIndent type="Number">0</textIndent>
+         <textRollOverColor type="Number">0xFFFFFF</textRollOverColor>
+         <textSelectedColor type="Number">0x000000</textSelectedColor>
+         <useRollOver type="Boolean">0</useRollOver>
+         <collapsible type="Boolean">0</collapsible>
+         <expanded type="Boolean">1</expanded>
+      </toc>
+      <quiz>
+         <disableFeedback type="Boolean">0</disableFeedback>
+         <txtQuestionOf>Frage @ von @</txtQuestionOf>
+         <txtPrev>Zurück</txtPrev>
+         <txtSubmit>Abschicken</txtSubmit>
+         <txtNext>Weiter</txtNext>
+         <txtDone>Fertig</txtDone>
+         <txtPreview>Vorschau</txtPreview>
+         <txtSend>Senden</txtSend>
+         <txtMainMessage>Sie haben das Ende der Fragen und dieses Videos erreicht. Ihre Antworten können jetzt übermittelt werden.</txtMainMessage>
+         <txtEmailContents>E-Mail-Inhalt</txtEmailContents>
+         <txtEmailTo>E-Mail senden an </txtEmailTo>
+         <txtAnswersSent>Ihre Antworten wurden gesendet.</txtAnswersSent>
+         <txtsummary>Sie haben @ von @ Fragen abgeschlossen.</txtsummary>
+         <txtScore>Punktzahl = @/@</txtScore>
+         <txtSummaryTitle>Zusammenfassung der Antworten</txtSummaryTitle>
+      </quiz>
+   </config>
+   <playlist>
+      <array>
+         <fileset>
+            <video1>
+               <duration type="Number">184.83</duration>
+               <uri>Abendschau.mp4</uri>
+               <frameRate type="Number">25</frameRate>
+               <keyframeRate type="Number">0</keyframeRate>
+               <blendingMode>Normal</blendingMode>
+               <isFlv type="Boolean">1</isFlv>
+            </video1>
+            <pip>
+               <duration type="Number">184.83</duration>
+               <frameRate type="Number">10</frameRate>
+               <keyframeRate type="Number">30</keyframeRate>
+               <uri>Abendschau_PIP.mp4</uri>   
+            </pip>
+            <hasPipVideo type="Boolean">0</hasPipVideo>
+            <hotspotInfo>
+               
+            </hotspotInfo>
+            <quizInfo>
+               
+            </quizInfo>
+            <captionInfo>
+               
+            </captionInfo>
+
+         </fileset>
+      </array>
+
+   </playlist>   
+   <tocInfo>
+      
+   </tocInfo>
+</main>
