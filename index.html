@@ -38,7 +38,7 @@
 		}
 	</style>
 	<script src="static/js/jquery-2.2.1.min.js"></script>
-	<script type="text/javascript">
+	<script>
 		var zaehler = 5; // Sekunden bis zur Weiterleitung
 		var weiter_zu = "http://www.b.shuttle.de/b/dathe-os/gesamt.php"; // Seite zu der weitergeleitet wird
 
@@ -53,7 +53,7 @@
 			}
 		}
 		$(function () { // Sobald das document bereit ist, starten
-			window.setInterval('count_down()', 1000); // alle 1sec downcout() aufrufen
+			window.setInterval('count_down()', 1000); // alle 1sec count_down() aufrufen
 		});
 	</script>
 </head>

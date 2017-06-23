@@ -1,0 +1,43 @@
+#navbar {
+    z-index: 10;
+    flex: 1;
+    padding: 25px 15px;
+    text-align: left;
+    font-size: 11px;
+}
+
+#navbar a {
+    color: black;
+}
+
+#nav {
+    padding-left: 35px;
+}
+
+#nav ul,
+#nav li {
+    list-style: none;
+    font-weight: bold;
+}
+
+#nav li {
+    padding: 2px 2px 2px 20px;
+    cursor: default;
+    margin: 5px -35px;
+}
+
+#nav ul {
+    display: none;
+}
+
+#nav li.expand {
+    background: url(../../elemente/arrow_down.gif) no-repeat scroll 0 7px transparent;
+}
+
+#nav li.expanded {
+    background: url(../../elemente/arrow_up.gif) no-repeat scroll 0 7px transparent !important;
+}
+
+.signatur {
+    text-align: center;
+}

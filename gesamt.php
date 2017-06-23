@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width" />
 
     <link rel="Stylesheet" href="static/css/indexV5.css" media="screen">
-    <link rel="Stylesheet" href="static/css/einzel.css" media="screen">
+    <link rel="Stylesheet" href="static/css/navbar.css" media="screen">
     <link rel="stylesheet" href="static/css/font-awesome.min.css">
 
     <link rel="icon" href="favicon.ico" type="image/ico" sizes="16x16">

@@ -19,7 +19,7 @@
                 <ul>
                     <li> <a href="./gesamt.php?sect=./unsereschule/schulprogramm/schulprogramm">Schulprogramm</a></li>
                     <li> <a href="./gesamt.php?sect=./unsereschule/schulprofil/schnelllerner/schnelllerner">Schnell-<br>lerner</a></li>
-                    <!--<li> <a href="./gesamt.php?sect=./unsereschule/schulprofil/schnelllerner/begabung/begabung">Begabungs-<br>f&ouml;rderung</a></li>-->
+                    <!--<li> <a href="./gesamt.php?sect=./unsereschule/schulprofil/schnelllerner/begabung/begabung">Begabungs-<br>förderung</a></li>-->
                     <li> <a href="./gesamt.php?sect=./unsereschule/schulprofil/abitur/abitur">Abitur</a></li>
                     <li> <a href="./gesamt.php?sect=./unsereschule/schulprofil/msa/msa">MSA</a></li>
                     <li> <a href="./gesamt.php?sect=./unsereschule/schulprofil/wpu/wpu">WPU</a></li>
@@ -141,13 +141,9 @@
 <div class="navinews" id="PRESSE"><b>PRESSE</b><br>
     <?php include 'presse@teaser.txt'; ?>
 </div>
-<!-- END PRESS BOX -->
-<!-- BEGIN COPYRIGHT SIGNATURE -->
-<p class="signatur">
-    <br>
-    <br>
-    <br> &copy; 1999 - 2017
-    <br> Mit <a title="ICRA, die Zertifizierungsstelle für Onlineinhalte" href="http://www.icra.org" target="_blank">ICRA</a> signiert
-</p>
-<!-- END COPYRIGHT SIGNATURE -->
+
+<div class="signatur">
+    &copy; 1999 - 2017<br>
+    Mit <a title="ICRA, die Zertifizierungsstelle für Onlineinhalte" href="http://www.icra.org" target="_blank">ICRA</a> signiert
+</div>
 <br>

@@ -1,9 +1,10 @@
 $("document").ready(function(){
 	$(".article").toggleClass("article-shadow");
-	$(".article > a").mousedown(function(){
+	var link = $(".article > a");
+	link.mousedown(function(){
 		$(this).parent().toggleClass("article-shadow");
 	});
-	$(".article > a").mouseup(function(){
+	link.mouseup(function(){
 		$(this).parent().toggleClass("article-shadow");
 	});
 });
