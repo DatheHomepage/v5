@@ -1,7 +1,8 @@
 #navbar {
     z-index: 10;
     flex: 1;
-    padding: 25px 15px;
+    padding: 0;
+    margin-right: 15px;
     text-align: left;
     font-size: 11px;
 }

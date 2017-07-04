@@ -1,0 +1,43 @@
+.article {
+    display: block;
+
+    padding: 10px 10px;
+    margin: 10px 0;
+    overflow: auto;
+    width: 100%;
+
+    border: 3px solid #95C11F;
+    transition: box-shadow 100ms ease;
+}
+
+.titel {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 12pt;
+}
+
+.subtitel {
+    font-size: 10pt;
+    text-align: center;
+    font-weight: bold;
+}
+
+.navinews {
+    width: 100%;
+    margin: 10px auto;
+    border: 2px solid #006A32;
+    padding: 5px;
+}
+
+.navinews .titel{
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    font-size: 10pt;
+}
+
+.bild-gross {
+    width: 80%;
+}
+

@@ -170,5 +170,5 @@
         </table>
     </div>
     <br>
-    <img class="centerimg" src="./teaser/hoffest/hoffest1gro.jpg" alt="">
+    <img class="centerimg bild-gross" src="./teaser/hoffest/hoffest1gro.jpg" alt="">
 </div>
