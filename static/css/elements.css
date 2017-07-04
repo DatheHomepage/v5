@@ -37,7 +37,18 @@
     font-size: 10pt;
 }
 
-.bild-gross {
+.bild-l {
     width: 80%;
+    height: auto;
+}
+
+.bild-m {
+    width: 60%;
+    height: auto;
+}
+
+.bild s{
+    width: 40%;
+    height: auto;
 }
 

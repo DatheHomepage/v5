@@ -1,4 +1,4 @@
-$("document").ready(function(){
+$("document").ready(function(){ // TODO Doable with CSS?
 	$(".article").toggleClass("article-shadow");
 	var link = $(".article > a");
 	link.mousedown(function(){

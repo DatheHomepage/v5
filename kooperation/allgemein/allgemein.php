@@ -1,23 +1,22 @@
 <div class="titel">- Allgemeine Kooperation -</div>
-<div class="teaser">
-    <br>
-    <b>Übersicht über aktuelle Kooperationen der Dathe-Oberschule (Stand: 07/2015)</b>
-    <br>
-    <br> Wir kooperieren, in Anlehnung an unser Schulprofil, mit verschiedensten Partnern,
-    <br> um den Unterricht und das Schulleben mit Erfahrungen und Erlebnissen aus dem Alltag,
-    <br> der Umwelt, der Kultur, der Politik anzureichern.
-    <br>
-    <br> Die folgende Übersicht gibt eine unvollständige Auswahl wieder und
-    <br> wird durch viele Einzelaktionen der jeweiligen Lehrkräfte in ihrem Unterricht und bei Projekten ständig erweitert.
-    <br>
-    <br>
-    <b>Unsere Schule pflegt folgende Kooperationen</b>
-    <br>
+<b>Übersicht über aktuelle Kooperationen der Dathe-Oberschule (Stand: 07/2015)</b>
+<br>
+<br> Wir kooperieren, in Anlehnung an unser Schulprofil, mit verschiedensten Partnern,
+<br> um den Unterricht und das Schulleben mit Erfahrungen und Erlebnissen aus dem Alltag,
+<br> der Umwelt, der Kultur, der Politik anzureichern.
+<br>
+<br> Die folgende Übersicht gibt eine unvollständige Auswahl wieder und
+<br> wird durch viele Einzelaktionen der jeweiligen Lehrkräfte in ihrem Unterricht und bei Projekten ständig erweitert.
+<br>
+<br>
+<b>Unsere Schule pflegt folgende Kooperationen</b>
+<br>
+<div class="table-responsive">
     <table>
         <tr>
             <th width="35%">Mit wem?</th>
             <th width="55%">Was?</th>
-            <th width="10%">Ansprechpartner/in</td>
+            <th width="10%">Ansprechpartner/in</th>
         </tr>
         <tr>
             <td>
@@ -55,7 +54,7 @@
                 <br>
                 <br>
             </td>
-            <td>Herr Zauber </td>
+            <td>Herr Zauber</td>
         </tr>
         <tr>
             <td>Blumberger Mühle</td>
@@ -112,7 +111,8 @@
         </tr>
         <tr>
             <td>FU Berlin
-                <br> Studenten machen Schule</td>
+                <br> Studenten machen Schule
+            </td>
 
             <td>Workshop zur Vorbereitung der
                 <br>Präsentationsprüfungen im MSA
@@ -238,7 +238,8 @@
 
             <td>Wolke auf Reisen e.V.</td>
 
-            <td>Vielfältige Einzelprojekte und Schülerfahrten aus dem bereich der Erlebnispädagogik Unterstützung der Gesamtschülervertretung
+            <td>Vielfältige Einzelprojekte und Schülerfahrten aus dem bereich der Erlebnispädagogik Unterstützung der
+                Gesamtschülervertretung
                 <br>
                 <br>
             </td>
@@ -285,8 +286,4 @@
 
         </tr>
     </table>
-
 </div>
-</body>
-
-</html>

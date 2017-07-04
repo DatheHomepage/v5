@@ -12,12 +12,11 @@
 
     <link rel="icon" href="favicon.ico" type="image/ico" sizes="16x16">
 
-    <script src="static/js/jquery-2.2.1.min.js"></script>
-    <script src="static/js/jquery.validate.min.js"></script>
-    <script src="static/js/offcanvas.js"></script>
+    <script src="static/js/jquery-3.2.1.min.js"></script>
+    <script src="static/js/jquery.validate.min.js"></script> <!-- TODO remove (from galerie?) -->
     <script src="static/js/ticker@navbar.js"></script>
     <script src="static/js/script.js"></script>
-    <script src="static/menu/menu.js"></script>
+    <script src="static/js/menu.js"></script>
 
     <title>Dathe-Gymnasium</title>
 </head>
@@ -30,7 +29,7 @@
     <div class="container">
         <a class="navbar-link"><i class="fa fa-th-list fa-4x"></i></a><!-- Für mobile Seite -->
         <nav id="navbar">
-            <?php include("static/menu/menue.php"); ?>
+            <?php include("menue.php"); ?>
         </nav>
 
         <section id="inhalt">

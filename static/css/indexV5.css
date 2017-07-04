@@ -64,7 +64,7 @@ html, body {
     padding: 0;
     margin: 0 0 0 15px;
     text-align: center;
-    font-size: 10px;
+    font-size: 11px;
     line-height: normal;
 }
 
@@ -310,13 +310,9 @@ th {
     transition: left 350ms linear;
 }
 
-.navbar-link.active {
-    left: 51%;
-}
-
-/* media abhängiges CSS (media queries fragen die verfügbare Auflösung ab, CSS3) */
-
-/* mobile Seite (bzw. sehr geringe Auflösungen */
+/*************************************************************/
+/*              Media Queries                                */
+/*************************************************************/
 
 /* Auflösungen
  *
@@ -342,12 +338,11 @@ th {
 @media (max-width: 1100px) { /* Klein */
     #wrapper {
         box-shadow: none;
+        overflow: hidden;
     }
 
     #navbar {
-        padding: 0 !important;
-        display: block;
-        background-color: #94C01E;
+        background-color: #95C11F;
         opacity: 0.95;
         position: absolute;
         top: 0;
@@ -362,8 +357,17 @@ th {
     }
 
     #navbar.active {
-        width: 50%;
-        padding: 25px 15px !important;
+        width: 25%;
+        padding: 25px 15px;
+    }
+
+    .navbar-link.active {
+        left: 26%;
+    }
+
+    .table-responsive {
+        /* Scrollbar um Tabelle einfügen */
+        overflow-x: auto;
     }
 }
 
@@ -374,6 +378,15 @@ th {
 
     .container {
         display: block;
+    }
+
+    #navbar.active {
+        width: 50%;
+        padding: 25px 15px;
+    }
+
+    .navbar-link.active {
+        left: 51%;
     }
 }
 
