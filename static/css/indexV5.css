@@ -41,7 +41,7 @@ html, body {
     width: 100%;
 }
 
-.container {
+#flex-container {
     display: flex;
     margin-top: 10px;
 }
@@ -64,7 +64,7 @@ html, body {
     padding: 0;
     margin: 0 0 0 15px;
     text-align: center;
-    font-size: 11px;
+    font-size: 10px;
     line-height: normal;
 }
 
@@ -84,11 +84,7 @@ html, body {
 #articles {
 }
 
-.article-shadow {
-    -webkit-box-shadow: 5px 5px 10px 0 rgba(117, 117, 117, 1);
-    -moz-box-shadow: 5px 5px 10px 0 rgba(117, 117, 117, 1);
-    box-shadow: 5px 5px 10px 0 rgba(117, 117, 117, 1);
-}
+
 
 .shadow {
     /* Wofür? */
@@ -159,24 +155,6 @@ a:hover {
 a:active {
     color: #000000;
 }
-
-/* Nav Leiste */
-
-/* Nav Leiste ende */
-
-/* - - - - - */
-
-.hiddentext {
-    color: #003460;
-}
-
-.intro {
-    border-top-width: 5px;
-    border-left-width: 5px;
-}
-
-/* - - - - - */
-
 /* - - - - - */
 
 .linksbund {
@@ -218,11 +196,6 @@ textarea {
 #senden {
     width: 100%;
     margin-top: 10px;
-}
-
-.archiv {
-    font-size: 11px;
-    text-align: left;
 }
 
 .gruen {
@@ -271,44 +244,9 @@ img.center {
     margin-right: auto;
 }
 
-table {
-    border-collapse: collapse;
-    border: 1px solid #006A32;
-}
 
-td,
-th {
-    border: 1px solid #006A32;
-}
-
-th {
-    background-color: #00cc00;
-    text-align: center;
-}
-
-th,
-td {
-    border-bottom: 1px solid #006A32;
-    padding: 5px;
-}
-
-.noborder,
-.noborder td,
-th {
-    border: 0 solid #FFFFFF;
-}
 
 /* Ende von Oisin's CSS */
-
-.navbar-link {
-    position: absolute;
-    display: none;
-    top: 15px;
-    left: 15px;
-    cursor: pointer;
-    z-index: 20;
-    transition: left 350ms linear;
-}
 
 /*************************************************************/
 /*              Media Queries                                */
@@ -376,7 +314,7 @@ th {
         display: none;
     }
 
-    .container {
+    .flex-container {
         display: block;
     }
 

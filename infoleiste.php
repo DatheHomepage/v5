@@ -9,12 +9,9 @@
     <?php include "aktuell@teaser.php" ?>
 </div>
 
-<div id="ticker" class="navinews"><strong>FERIENTICKER</strong>
-    <br>
-    <br>
-    <script>
-        main();
-    </script>
+<div class="navinews">
+    <strong>FERIENTICKER</strong>
+    <div id="ticker">Lädt...</div>
 </div>
 
 <div id="impressum" class="navinews">

@@ -42,3 +42,13 @@
 .signatur {
     text-align: center;
 }
+
+.navbar-link {
+    position: absolute;
+    display: none;
+    top: 15px;
+    left: 15px;
+    cursor: pointer;
+    z-index: 20;
+    transition: left 350ms linear;
+}

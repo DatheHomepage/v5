@@ -14,7 +14,7 @@
 
     <script src="static/js/jquery-3.2.1.min.js"></script>
     <script src="static/js/jquery.validate.min.js"></script> <!-- TODO remove (from galerie?) -->
-    <script src="static/js/ticker@navbar.js"></script>
+    <script src="static/js/ticker.js"></script>
     <script src="static/js/script.js"></script>
     <script src="static/js/menu.js"></script>
 
@@ -26,7 +26,7 @@
     <header id="header">
         <img id="head_bg" src="./static/bilder/elemente/dathe_oben.png" alt="">
     </header>
-    <div class="container">
+    <div id="flex-container">
         <a class="navbar-link"><i class="fa fa-th-list fa-4x"></i></a><!-- Für mobile Seite -->
         <nav id="navbar">
             <?php include("menue.php"); ?>

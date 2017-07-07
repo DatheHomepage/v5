@@ -19,7 +19,7 @@ var countdownheight = '35px';
 var countdownbgcolor = '';
 var opentags = '<font class="intro">';
 var closetags = '</font>';
-var montharray = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+var montharray = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 var crosscount = '';
 
 function start_countdown() {
