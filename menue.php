@@ -1,4 +1,4 @@
-<ul id="nav">
+<ul id="menü">
     <li><a href="./gesamt.php">Startseite</a></li>
     <li class="expand"><a href="./gesamt.php?sect=./organisation/organisation">Organisation</a>
         <ul>
@@ -152,7 +152,7 @@
     <br>
     <strong>Sparkasse</strong>
     <br>
-    <a href="http://www.sparkasse.de" target="blank"><img src="./static/bilder/logos/sparkasse.png" alt="Sparkassen Logo"></a>
+    <a href="http://www.sparkasse.de" target="blank"><img src="./static/bilder/logos/sparkasse.png" alt="Sparkassen Logo" class="bild-xl"></a>
 
 
     <br>

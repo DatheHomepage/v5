@@ -10,6 +10,5 @@ $(document).ready(function () {
     $(".navbar-link").click(function () {
         $(this).toggleClass("active");
         $("#navbar").toggleClass("active");
-        $("#main").toggleClass("active");
     });
 });

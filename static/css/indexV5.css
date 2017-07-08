@@ -114,7 +114,6 @@ html, body {
 .gruen {
     border: 2px solid green;
     padding: 10px;
-    overflow: auto;
     margin-bottom: 5px;
 }
 
@@ -148,6 +147,7 @@ html, body {
  *   100% Breite
  *   Versteckte Navigation
  *   Versteckte Infoleiste
+ *   Keine Bilder in Artikel
  */
 
 @media (min-width: 1100px) { /* Normal */
@@ -208,6 +208,14 @@ html, body {
 
     .navbar-link.active {
         left: 51%;
+    }
+
+    .artikel {
+        text-align: left;
+    }
+
+    .artikel-bild {
+        display: none;
     }
 }
 

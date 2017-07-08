@@ -14,6 +14,10 @@
  */
 
 
+/************************/
+/* Artikel              */
+/************************/
+
 .artikel {
     display: block;
 
@@ -40,10 +44,17 @@
     box-shadow: 5px 5px 10px 0 rgba(117, 117, 117, 1);
 }
 
-.article-schatten:active {
+.artikel-schatten:active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
+}
+
+.artikel-titel {
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 10pt;
 }
 
 /************************/
@@ -88,26 +99,22 @@
     font-weight: bold;
 }
 
-
-
-.artikel .titel {
-    font-weight: bold;
-    margin-bottom: 10px;
-    text-align: left;
-    font-size: 10pt;
-}
-
 /************************/
 /* Bilder               */
 /************************/
 
-.bild-l {
+.bild-xl {
     width: 80%;
     height: auto;
 }
 
+.bild-l {
+    width: 60%;
+    height: auto;
+}
+
 .bild-m {
-    width: 50%;
+    width: 40%;
     height: auto;
 }
 
@@ -124,6 +131,10 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.bild-rechts {
+    float: right;
 }
 
 /* Für bilder in Aktuelles */

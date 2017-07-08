@@ -1,3 +1,4 @@
+/*  */
 #navbar {
     flex: 1;
     padding: 0;
@@ -6,23 +7,28 @@
     font-size: 11px;
 }
 
-#nav a {
-    color: black;
-}
-
-#nav {
+/*  */
+#menü {
     position: relative;
     font-weight: bold;
     padding-left: 30px;
+    /* Alle clicks ignorieren, um zufälliges schließen zu verhindern */
+    pointer-events: none;
 }
 
-#nav ul {
+#menü a {
+    color: black;
+    /* Clicks auf links zulassen */
+    pointer-events: all;
+}
+
+#menü ul {
     display: none;
     padding-left: 30px;
 
 }
 
-#nav li {
+#menü li {
     padding: 2px 2px 2px 20px;
     cursor: default;
     margin: 5px -35px;
@@ -30,16 +36,20 @@
     list-style: none;
 }
 
-#nav li.expand::before {
+#menü li.expand::before {
     content: url(/static/bilder/elemente/arrow_down.gif);
     position: absolute;
     left: 5px;
     top: 0;
     cursor: pointer;
+    /* Clicks auf Pfeil zulassen */
+    pointer-events: all;
 }
 
-#nav li.expanded::before {
+#menü li.expanded::before {
     content: url(/static/bilder/elemente/arrow_up.gif);
+    /* Clicks auf Pfeil zulassen */
+    pointer-events: all;
 }
 
 .navbar-link {
