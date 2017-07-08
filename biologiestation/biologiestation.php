@@ -106,9 +106,9 @@ $bilder = "bilder/allgemein";
 
     <div id="galerie"></div>
     <br>
-    <video width="320" height="240" controls>
-        <source src="Abendschau.mp4" type="video/mp4">
-        <source src="Abendschau.ogv" type="video/ogv">
+    <video width="75%" height="auto" controls>
+        <source src="/biologiestation/Abendschau.mp4" type="video/mp4">
+        <source src="/biologiestation/Abendschau.ogv" type="video/ogv">
         Your browser does not support the video tag.
     </video>
     <br>

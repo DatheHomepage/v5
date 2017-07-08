@@ -7,9 +7,9 @@
 <span class="rubrik">Aktuelles...<br></span>
 <div id="articles">
     <hr class="line">
-    <div class="article">
+    <div class="artikel article-schatten">
         <a href="?sect=./unsereschule/schulprofil/umweltschule/umweltschule">
-            <img class="bild-artikel" alt="" src="./teaser/usbanner.jpg">
+            <img class="artikel-bild" alt="" src="./static/bilder/logos/umweltschule.png">
         </a>
         <div class="titel">23.06.2017 | Dathe-Schule = Umweltschule</div>
         In der Woche vom 03.07. - 07.07. finden unsere diesjährigen Umweltaktionstage statt,
@@ -19,8 +19,8 @@
 
 
     <hr class="line">
-    <div class="article">
-        <img class="bild-artikel" alt="" src="./static/bilder/bilder/IMG_6831.JPG">
+    <div class="artikel article-schatten">
+        <img class="artikel-bild" alt="" src="./static/bilder/bilder/img_6831.jpg">
         <div class="titel">23.06.2017 | Klima-Schulpartnerschaft mit Nicaragua</div>
         Im Rahmen der Umweltwoche findet am <b>Mittwoch den 5. Juli</b> eine Veranstaltung
         zum Thema Klima-Schulpartnerschaft mit Nicaragua statt. Wir, die Gruppe von Lehrer/inne/n
@@ -31,7 +31,7 @@
     </div>
 
     <hr class="line">
-    <div class="article">
+    <div class="artikel article-schatten">
         <img class="blog-img" alt="" src="./teaser/hoffest/hoffest1.jpg">
         <b>13.03.2017 | Jubiläum.. </b>
         <br><b>Schulsozialarbeit am Dathe:</b>
@@ -46,7 +46,7 @@
     </div>
 
     <hr class="line">
-    <div class="article">
+    <div class="artikel article-schatten">
         <img class="blog-img" alt="" src="./teaser/schule/schule4.jpg">
         <b>27.02.2017 | Aktuelles.. </b>
         <br>Unser neues Klimaprojekt der 8. Klassen finden Sie <a
@@ -66,7 +66,7 @@
     <hr class="line">
 
 
-    <div class="article">
+    <div class="artikel article-schatten">
         <img class="blog-img" alt="" src="./teaser/sommerkonzert.png">
         <b>09.01.2017 | Letztes Weihnachtskonzert</b>
         <br>Wie jedes Jahr fand vor Weihnachten ein Schulkonzert statt, bei dem Klassen, Arbeitsgemeinschaften und
@@ -78,7 +78,7 @@
 
     <hr class="line">
 
-    <div class="article">
+    <div class="artikel article-schatten">
         <a href="?sect=./unsereschule/sozialarbeit/sozialarbeit"> <img class="blog-img" alt=""
                                                                        src="./teaser/schule/schule7.jpg"></a>
         <b>01.11.2016 | Schulsozialarbeit am Dathe-Gymnasium</b>
@@ -89,7 +89,7 @@
         <br>Per Mail sind sie unter <b>sozial@dathe-gymnasium.cidsnet.de erreichbar. </b>
     </div>
     <hr class="line">
-    <div class="article">
+    <div class="artikel article-schatten">
         <a href="http://www.bwb.de/content/language1/html/18213.php"><img class="blog-img" alt=""
                                                                           src="./teaser/schule/schule3.jpg"></a>
         <b>19.09.2016 | Gurgel-Contest</b>
@@ -102,7 +102,7 @@
     <hr class="line">
 
 
-    <div class="article">
+    <div class="artikel article-schatten">
         <img class="blog-img" alt="" src="./teaser/schule/schule1.jpg">
         <b>01.07.2016 | Balg-Mächler-Schülerpreis 2016</b>
         <br> Die Abiturienten Luise L. und Felix N. erhalten für ihre Seminararbeiten im Bereich der Besonderen

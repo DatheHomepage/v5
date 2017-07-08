@@ -20,7 +20,7 @@
 		<b>Anmeldunszeitraum:</b><br>
 		Klasse 5: 1.3 - 8.3.<br>
 		Klasse 7: 7.2 - 21.2.<br><br>-->
-		<div class="article">
+		<div class="artikel">
 		 <a href="./organisation/aufnahmeKlasse5_7.pdf" target="_blank">Neuaufnahmen zu Kl. 5 und 7</a><br>
         </div>
         <br>
@@ -30,7 +30,7 @@
         <br> die bei der Suche nach einer Schule bereitgehalten werden sollten, informieren.
         <br>
         <br>
-       <div class="article">
+       <div class="artikel">
         <a href="./organisation/datheFlyer.pdf" target="_blank">Flyer zur Dathe-OS </a>
 		</div>
         <br>
@@ -57,7 +57,7 @@
     <hr class="line"> 
 	Informationen zu den Informationsveranstaltungen für unsere "Neuen":
     <br> 
-	<div class="article">
+	<div class="artikel">
 	Die erste Informationsveranstaltung für Eltern der neuen 7. Klassen fand am 13.06.2017 um 19.00 Uhr statt. <br>
 	<b>Informationen dazu <a href="./organisation/einfuehrungElternSieben2017.pdf" target="_blank">hier.</a></b>
     <br> Die erste Informationsveranstaltung für Eltern der neuen 5. Klassen fand am 20.06.2017 um 19.00 Uhr statt. 

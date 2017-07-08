@@ -21,7 +21,7 @@
     <br>
     <br>
 
-    <img src="./fachbereich/sport/skikurs/schnee1.jpg" class="centerimg">
+    <img src="./fachbereich/sport/skikurs/schnee1.jpg" class="bild-mittig">
     <br>
     <br>
 

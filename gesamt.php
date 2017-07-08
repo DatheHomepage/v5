@@ -8,12 +8,12 @@
     <link rel="Stylesheet" href="static/css/indexV5.css" media="screen">
     <link rel="Stylesheet" href="static/css/navbar.css" media="screen">
     <link rel="Stylesheet" href="static/css/elements.css" media="screen">
+    <link rel="Stylesheet" href="static/css/formatierungen.css" media="screen">
     <link rel="stylesheet" href="static/css/font-awesome.min.css">
 
     <link rel="icon" href="favicon.ico" type="image/ico" sizes="16x16">
 
     <script src="static/js/jquery-3.2.1.min.js"></script>
-    <script src="static/js/jquery.validate.min.js"></script> <!-- TODO remove (from galerie?) -->
     <script src="static/js/ticker.js"></script>
     <script src="static/js/script.js"></script>
     <script src="static/js/menu.js"></script>
@@ -41,12 +41,13 @@
                     if ($_GET['sect']) {
                         $path = $_GET['sect'] . ".php";
                         $dir = substr($_GET['sect'], 0, strrpos($_GET['sect'], "/"));
-                    } else {
-                        $path = "aktuelles.php";
                     }
                 }
             }
-            include $path;
+            $datei = include $path;
+            if(!$datei){
+                echo "<h3>Seite nicht gefunden</h3>";
+            }
             if ($bilder != "") {
                 include("galerie.php");
             }

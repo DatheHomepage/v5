@@ -43,7 +43,7 @@ Friedrichshain-Kreuzberg der mathematischen Herausforderung.<br>
 Auch in diesem Jahr gehören wieder einige von ihnen zu den Preisträgern. <br>
 Sie sind zugleich nominiert für die Landesolympiade Mathematik, die an zwei Tagen Ende Februar 
 ausgetragen wird. Herzlichen Glückwunsch und weiter viel Erfolg!<br><br>
-<div class="article">
+<div class="artikel">
 2. Preis &nbsp;	&nbsp;  Ben Eltschig (Kl. 9) <br>
 3. Preise &nbsp;&nbsp;	Luca Döhnel (Kl. 6), Emma Heberle und Lukas Zander (beide Kl. 8)
 </div>

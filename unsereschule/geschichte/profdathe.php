@@ -1,8 +1,8 @@
-<script language="JavaScript" type="text/javascript">
+<script>
     <!--
     function probe(div) {
         with(document.getElementById(div).style) {
-            if (display == "none") {
+            if (display === "none") {
                 display = "inline";
             } else {
                 display = "none";
@@ -31,7 +31,7 @@
     <br>
     <br>
     
-    <div id="horzMenu">
+    <div class="nav-horizontal">
         <span onmouseover="probe('1910'); probe('0')" onmouseout="probe('1910'); probe('0')">
             <b>1910 - 1939:<br>
             Kindheit & Jugend </b>

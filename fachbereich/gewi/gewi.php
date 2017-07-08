@@ -69,6 +69,6 @@
 	   <a href="?sect=./fachbereich/gewi/projekt">Projekt Datenschutz/Wikipedia</a><br><br>
 	  <hr>
 	  <br>
-     <img class="centerimg" src= "./teaser/schulisch/daenenzuBesuch.jpg">
+     <img class="bild-mittig" src= "./teaser/schulisch/daenenzuBesuch.jpg">
 	
 </div>

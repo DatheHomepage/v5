@@ -77,14 +77,9 @@ html, body {
     width: 100px;
 }
 
-#sidebar div {
+#sidebar > div {
     padding: 5px 3px;
 }
-
-#articles {
-}
-
-
 
 .shadow {
     /* Wofür? */
@@ -100,97 +95,15 @@ html, body {
     bottom: 0;
 }
 
-/* Bildergalerie */
 
-#galerie {
-    background-color: gray;
-    padding: 5px;
-}
 
-.galerie-teaser {
-    margin: 5px;
-    border: 1px solid green;
-}
-
-#inner {
-    background-color: lightgray;
-}
-
-#steuerung {
-    text-align: center;
-    color: white;
-}
-
-#back,
-#close,
-#next {
-    cursor: pointer;
-}
-
-#galerie-big {
-    max-width: 90%;
-    margin: 5px;
-}
-
-/* Bildergalerie ende */
-
-a {
-    text-decoration: none;
-    color: lightgreen;
-}
-
-a:link {
-    color: darkgreen;
-}
-
-a:visited {
-    /* color: #666666; ALT*/
-    color: #008e00;
-}
-
-a:hover {
-    color: #F88030;
-}
-
-a:active {
-    color: #000000;
-}
-/* - - - - - */
-
-.linksbund {
-    text-align: left;
-}
-
-.rechtsbund {
-    text-align: right;
-}
-
-hr {
-    border-style: solid;
-    color: #006A32;
-    background-color: #006A32;
-    margin: 1px 1px 5px;
-}
 
 /* CSS von Oisin */
 
-label {
-    display: block;
-    /*border: 2px solid green;*/
-    margin-bottom: 5px;
-    width: 100%;
-}
+
 
 .ol {
     list-style: decimal inside;
-}
-
-input,
-textarea {
-    border: 1px solid green;
-    float: right;
-    width: 75%;
-    resize: vertical;
 }
 
 #senden {
@@ -216,37 +129,7 @@ textarea {
     padding-right: 6px;
 }
 
-#horzMenu {
-    margin: auto;
-    padding: 0;
-}
 
-#horzMenu > span {
-    float: left;
-    border: 2px solid #006A32;
-    border-left-width: 0;
-    padding: 3px;
-}
-
-#horzMenu > span:first-child {
-    border-left-width: 2px;
-}
-
-img.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.centerimg {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-
-/* Ende von Oisin's CSS */
 
 /*************************************************************/
 /*              Media Queries                                */
@@ -291,7 +174,7 @@ img.center {
     }
 
     .navbar-link {
-        display: block;
+        display: block !important;
     }
 
     #navbar.active {

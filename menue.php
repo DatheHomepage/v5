@@ -131,25 +131,19 @@
                 </ul>
             </li>
             <li><a href="./gesamt.php?sect=./schulleben/ubb/ubb">UBB</a></li>
-            <!--<li> <a href="./gesamt.php?sect=./fotostrecken/index&amp;m=6">Events</a></li>-->
             <li><a href="./gesamt.php?sect=./schulleben/archiv/archiv">Archiv</a></li>
         </ul>
     </li>
 </ul>
-
-<br>
-<br>
-<br>
-<div class="navinews">
+<div class="infobox">
     Hier geht's zum <b>Login</b> unseres Schulessenanbieters
     <br>
     <br>
     <a href="https://drei-koeche.brunchatschool.net/extern/login.php" target="_blank"><b>"drei Köche"</b></a>
 </div>
 
-<div class="navinews">
-    <div class="subtitel">PRESSE</div>
-    <br>
+<div class="infobox">
+    <div class="infobox-titel">Presse</div>
     <strong>cidsnet</strong>
     <br>
     <a href="http://www.cidsnet.de" target="blank"><img src="./static/bilder/logos/cids.png" alt="Cidsnet Logo"></a>
@@ -168,7 +162,7 @@
     Schule bestellen.
 </div>
 
-<div class="signatur">
+<div class="text-mittig">
     &copy; 1999 - 2017<br>
     Mit <a title="ICRA, die Zertifizierungsstelle für Onlineinhalte" href="http://www.icra.org" target="_blank">ICRA</a>
     signiert

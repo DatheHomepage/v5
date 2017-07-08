@@ -49,7 +49,7 @@ $out = js_array($bilder);
         this.current = 0; //Current Pos
         this.len = this.bilder.length;
         this.zoom = false; //Boolean: Show Thumbnails / Big Image
-        this.path = "<?php echo $abs; ?>/";
+        this.path = "<?php echo $abs; ?>";
         BilderGalerie.prototype.next = function () {
             if (this.current < this.len - 1) {
                 this.current += 1;
@@ -67,41 +67,28 @@ $out = js_array($bilder);
         BilderGalerie.prototype.toggleDisplay = function () {
             var cont = "";
             if (this.zoom === true) {
-                cont = '<div id="steuerung"><span id="back"><-- Zurück</span> | <span id="close">Schließen</span> | <span id="next">Nächstes --></span></div><div id="inner"><a name="galerie"></a>';
+                cont = '<div id="galerie-steuerung"><span id="back" class="maus-hand">&lt;-- Zurück</span> | <span id="close" class="maus-hand">Schließen</span> | <span id="next" class="maus-hand">Nächstes --&gt;</span></div><div id="inner"><a name="galerie"></a>';
 
-                cont += $.validator.format('<img src="{0}" id="galerie-big"/>',
-                    this.path + this.bilder[this.current]);
-
+                cont += '<img src="' + this.path + this.bilder[this.current] + '" id="galerie-big" class="bild-mittig"/>';
                 cont += "</div>";
-                cont += '<div id="steuerung" onmousedown="return false;"><span id="back"><-- Zurück</span> | <spanid="close">Schließen</span> | <span id="next">Nächstes --></span></div>';
+                cont += '<div id="galerie-steuerung" onmousedown="return false;"><span id="back" class="maus-hand">&lt;-- Zurück</span> | <span id="close" class="maus-hand">Schließen</span> | <span id="next" class="maus-hand">Nächstes --&gt;</span></div>';
                 $("#galerie").html(cont); //TODO
-                this.zoom = !this.zoom;
             } else {
-                cont = '<div id="inner">';
+                cont = '<div id="galerie-inner">';
                 for (var i in this.bilder) {
-                    /*if (i != 0 && i % this.breite == 0) {
-                     cont += "<br>";
-                     console.log("BR")
-                     }*/
-                    cont += $.validator.format('<a href="#galerie"><img src="{0}" draggable="false" class="galerie-teaser" id="{1}" width="75" height="75"/></a>', this.path + this.bilder[i], i);
-
+                    cont += '<a href="#galerie"><img src="' + this.path  + this.bilder[i] + '" draggable="false" class="galerie-teaser" id="' + i + '" width="75" height="75"/></a>';
                 }
 
-
-                //console.log(cont);
-                cont += "<br>Klicken zum Vergrößern";
+                cont += "</div>Klicken zum Vergrößern";
                 $("#galerie").html(cont);
-                //console.log(this.zoom);
-                this.zoom = !this.zoom;
-
             }
+            this.zoom = !this.zoom;
             //Toggle size (Thumbnails / Big Image)
         };
     }
+
     var a = null;
     $(function () {
-        console.log("Galerie Initalisiert");
-
         if ($('#galerie').length) {
             var galerie = new BilderGalerie();
             galerie.toggleDisplay();

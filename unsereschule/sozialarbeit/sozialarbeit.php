@@ -1,13 +1,13 @@
 <?php $bilder = "/bilder"; ?>
 <div class="titel">- Schulsozialarbeit am Dathe-Gymnasium -</div>
-<div class="article">
+<div class="artikel">
 	<img src="./unsereschule/sozialarbeit/hoffest.jpg" class="blog-img">
     In Kooperation mit dem Träger Technische Jugendfreizeit- & Bildungsgesellschaft (<a href="http://www.tjfbg.de/" target="_blank">tjfbg</a>) wurde die Schulsozialarbeit zum 15.02.2016, am Dathe-Gymnasium ins Leben gerufen. Frau Ziller ist seitdem dort als Schulsozialarbeiterin tätig und Frau Chevallier am 4.01.2017 dazu eingestiegen. Per Mail sind sie unter sozial@dathe-gymnasium.cidsnet.de erreichbar.
 </div>
 <br><br>
 <hr class="line">
 <br>
-<div class="article">
+<div class="artikel">
 <img class="blog-img" alt="" src="./teaser/schule/schule7.jpg"><b>21.06.17 | Schulsozialarbeit Handy und Mediennutzung</b><br>
 Die Schulsozialarbeiterinnen laden ein, genauere Infos dazu <a href="./unsereschule/sozialarbeit/einladungzurveranstaltung.pdf" target="_blank">hier</a>.
 </div>

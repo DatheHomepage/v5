@@ -1,4 +1,20 @@
-.article {
+/* Generelle Elements
+ *
+ *      Inhalt
+ * Artikel
+ * Infobox
+ * Überschriften
+ * Bilder
+ * Archiv
+ * Tabellen
+ * Form
+ * Bildergalerie
+ * Horizontales Menü
+ *
+ */
+
+
+.artikel {
     display: block;
 
     padding: 10px 10px;
@@ -8,24 +24,56 @@
 
     border: 3px solid #95C11F;
     transition: box-shadow 100ms ease;
+}
 
+.artikel-bild {
+    margin-top: 5px;
+    margin-right: 5px;
+    float: left;
+    height: 75px;
+    width: 100px;
+}
+
+.artikel-schatten {
     -webkit-box-shadow: 5px 5px 10px 0 rgba(117, 117, 117, 1);
     -moz-box-shadow: 5px 5px 10px 0 rgba(117, 117, 117, 1);
     box-shadow: 5px 5px 10px 0 rgba(117, 117, 117, 1);
 }
 
-.article:active {
+.article-schatten:active {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
 
-.article .titel {
-    font-weight: bold;
-    margin-bottom: 10px;
-    text-align: left;
-    font-size: 10pt;
+/************************/
+/* Infobox              */
+/************************/
+
+.infobox {
+    width: 100%;
+    margin: 10px auto;
+    border: 2px solid #006A32;
+    padding: 5px;
 }
+
+.infobox-wichtig {
+    border: 2px solid red;
+}
+
+.infobox-titel{
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0 0 10px 0;
+    font-size: 7pt;
+}
+
+
+/************************/
+/* Überschriften        */
+/************************/
 
 .titel {
     font-weight: bold;
@@ -40,17 +88,12 @@
     font-weight: bold;
 }
 
-.navinews {
-    width: 100%;
-    margin: 10px auto;
-    border: 2px solid #006A32;
-    padding: 5px;
-}
 
-.navinews .titel{
+
+.artikel .titel {
     font-weight: bold;
-    text-align: center;
-    margin: 0;
+    margin-bottom: 10px;
+    text-align: left;
     font-size: 10pt;
 }
 
@@ -64,13 +107,17 @@
 }
 
 .bild-m {
-    width: 60%;
+    width: 50%;
     height: auto;
 }
 
 .bild-s{
-    width: 40%;
+    width: 20%;
     height: auto;
+}
+
+.bild-links{
+    float: left;
 }
 
 .bild-mittig {
@@ -79,18 +126,14 @@
     margin-right: auto;
 }
 
-.bild-artikel {
-    margin-top: 5px;
-    margin-right: 5px;
-    float: left;
-    height: 75px;
-    width: 100px;
-}
+/* Für bilder in Aktuelles */
+
 
 /************************/
 /* Archiv               */
 /************************/
 
+/* Archiv container */
 .archiv {
     display: flex;
     flex-flow: row wrap;
@@ -102,6 +145,7 @@
     flex: 1;
     flex-basis: 25%;
     margin: 10px;
+    min-width: 110px;
 }
 
 /************************/
@@ -128,4 +172,73 @@ th {
 .noborder td,
 .noborder th {
     border: 0 solid #FFFFFF;
+}
+
+/************************/
+/* Forms                */
+/************************/
+
+
+input,
+textarea {
+    border: 1px solid green;
+    float: right;
+    width: 75%;
+    resize: vertical;
+}
+
+label {
+    display: block;
+    /*border: 2px solid green;*/
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+/************************/
+/* Bildergalerie        */
+/************************/
+
+#galerie {
+    background-color: gray;
+    padding: 5px;
+}
+
+.galerie-teaser {
+    margin: 5px;
+    border: 1px solid green;
+}
+
+#galerie-inner {
+    background-color: lightgray;
+    display: flex;
+    flex-flow: wrap;
+}
+
+#galerie-steuerung {
+    text-align: center;
+    color: white;
+}
+
+#galerie-big {
+    max-width: 90%;
+}
+
+/************************/
+/* Horizontales Menü    */
+/************************/
+
+.nav-horizontal {
+    margin: auto;
+    padding: 0;
+}
+
+.nav-horizontal > span {
+    float: left;
+    border: 2px solid #006A32;
+    border-left-width: 0;
+    padding: 3px;
+}
+
+.nav-horizontal > span:first-child {
+    border-left-width: 2px;
 }

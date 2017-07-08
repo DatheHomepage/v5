@@ -1,3 +1,4 @@
+/* Freienticker von Oisin Smith */
 $("document").ready(function(){
     var ferien = "Sommerferien";
     var abgelaufen_text = "Ferien!";
@@ -13,7 +14,7 @@ $("document").ready(function(){
     var text = "";
 
     function update() {
-        var now = new Date(Date.now());
+        var now = new Date();
         var restlich = datum - now;
         if (restlich < 0) {
             clearInterval(timer);
