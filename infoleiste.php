@@ -46,18 +46,10 @@
 </div>
 
 <div class="infobox">
-    <a href="http://www.fadg.de/cms/" target="_parent"
-       style="font-weight: bold; font-size: 9pt; text-decoration: none; color: black;">
-        Förderverein und<br>Eltern<br>Kooperationsbörse</a></div>
+    <a href="http://www.fadg.de/cms/"><b>Förderverein und<br>Eltern<br>Kooperationsbörse</b></a>
+</div>
 
 <div class="infobox">
     <div class="infobox-titel">Unsere Seite</div>
     <a href="?sect=./schulleben/projekte/schulhomepage/schulhomepage">Homepage AG</a>
-    <br>
 </div>
-
-<!-- <div id="ehemtreff" class="navinews"> <strong>EHEMALIGENTREFF</strong><br>
-		<span class="intro">Am 12.09.2008 fand im Tierpark der <strong>erste</strong>
-			Ehemaligentreff der Dathe-Oberschule statt.<br> </span>
-		<br>
-		&nbsp;<a href="absolventen.htm">&raquo; mehr Infos hier&nbsp;</a></div> -->

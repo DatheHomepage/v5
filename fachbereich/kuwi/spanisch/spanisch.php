@@ -1,16 +1,15 @@
 ﻿<div class="titel">- Spanisch -</div><br><br>
-<div class="teaser">
-<br>
-<div class=gruen>
-<b>11.07.2016 | Kontakt mit neuer Partnerschule in Nicaragua</b><br>
-Zu Beginn des zweiten Schulhalbjahres sind die SchülerInnen des Wahlpflichtkurses Spanisch Klasse 9 
-mit einer SchülerInnengruppe gleichen Alters des Colegio Público José Domingo Espinoza Parrales in San 
-Rafael del Sur in Kontakt getreten. Unterstützt werden sie dabei von Frau Doil und Frau Schmidt.<br> 
-In einem Internetblog haben sie Präsentationen von sich selbst, ihrem Alltag und ihrer Schule hochgeladen, 
-die durch selbst aufgenommene Fotos lebendig gestaltet wurden.<br> 
-Zuletzt wurde im Unterricht das Thema Essen behandelt und auch darüber konnten sich die SchülerInnen austauschen. Sie erfuhren Interessantes über ihre 
-persönlichen Essgewohnheiten und konnten feststellen, wo es Unterschiede und Gemeinsamkeiten gibt. 
-Genaueres gibt es dazu <a href="./fachbereich/kuwi/spanisch/partnerNicaragua_170310.pdf" target="_blank">hier</a>.
+<div class="artikel">
+    <div class="artikel-titel"> 11.07.2016 | Kontakt mit neuer Partnerschule in Nicaragua</div>
+    Zu Beginn des zweiten Schulhalbjahres sind die SchülerInnen des Wahlpflichtkurses Spanisch Klasse 9
+    mit einer SchülerInnengruppe gleichen Alters des Colegio Público José Domingo Espinoza Parrales in San
+    Rafael del Sur in Kontakt getreten. Unterstützt werden sie dabei von Frau Doil und Frau Schmidt.<br>
+    In einem Internetblog haben sie Präsentationen von sich selbst, ihrem Alltag und ihrer Schule hochgeladen,
+    die durch selbst aufgenommene Fotos lebendig gestaltet wurden.<br>
+    Zuletzt wurde im Unterricht das Thema Essen behandelt und auch darüber konnten sich die SchülerInnen austauschen.
+    Sie erfuhren Interessantes über ihre
+    persönlichen Essgewohnheiten und konnten feststellen, wo es Unterschiede und Gemeinsamkeiten gibt.
+    Genaueres gibt es dazu <a href="/fachbereich/kuwi/spanisch/partnerNicaragua_170310.pdf" target="_blank">hier</a>.
 
 </div>
 <br>
@@ -19,30 +18,28 @@ Seit dem Schuljahr 2011-2012 kann Spanisch von den neuen 7. Klassen als
 2. Fremdsprache gew&auml;hlt werden. Spanisch als
 dritte Fremdsprache wird im Rahmen des Wahlpflichtunterrichts ab Klasse
 8 (f&uuml;r die Schnelllernerklassen ab Klasse 7) angeboten.
-      <br>
-<img style="align: right;" alt="Hier w&auml;hre ein Bild..." src="./fachbereich/kuwi/spanisch/spanisch1.jpg">
-<img style="align: right;" alt="Hier w&auml;hre ein Bild..." src="./fachbereich/kuwi/spanisch/spanisch2.jpg">
-<img style="align: right;  margin-left: 15px;" alt="Hier w&auml;hre ein Bild..." src="./fachbereich/kuwi/spanisch/spanien.jpg">
+<br>
+<img class="bild-s" alt="Hier währe ein Bild..." src="/fachbereich/kuwi/spanisch/spanisch1.jpg">
+<img class="bild-s" alt="Hier währe ein Bild..." src="/fachbereich/kuwi/spanisch/spanisch2.jpg">
+<img class="bild-s" alt="Hier währe ein Bild..." src="/fachbereich/kuwi/spanisch/spanien.jpg">
 
-	<br><br>	
+<br><br>
 <i>"Hablas espanol tambien?" oder auch</i><br> <i>"Kommt das hier jemandem <b>Spanisch</b>
-vor?"</i><br>
+    vor?"</i><br>
 
 
-
-      <br>
+<br>
 <hr class="line">
 
 
-      <b>Spanisch am Dathe-Gymnasium</b><br>
+<b>Spanisch am Dathe-Gymnasium</b><br>
 
 
-
-      <br>
+<br>
 
 Spanisch als 2. oder 3. Fremdsprache<br>
 
-      <br>
+<br>
 
 Warum Spanisch?<br>
 
@@ -91,30 +88,21 @@ gef&uuml;hrt und kann auch als m&uuml;ndliches oder schriftliches
 Abiturfach oder als f&uuml;nfte Pr&uuml;fungskomponente (Besondere
 Lernleistung oder Pr&auml;sentationspr&uuml;fung) gew&auml;hlt werden.<br>
 
-      <br>
+<br>
 
 
-
-      <br>
-
+<br>
 
 
 Ansprechpartner f&uuml;r den Fachbereich Spanisch: Fr.
 Wei&szlig;ert<br>
 
 
-
 fb.spanisch@dathe-gymnasium.cidsnet.de<br>
 
 
-
-      <br>
-
+<br>
 
 
 Ansprechpartner f&uuml;r den Fachbereich Fremdsprachen: <br>
-
-
-
-Fr. L&uuml;bbing<br>
-</div>
+Fr. Lübbing

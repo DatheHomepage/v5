@@ -1,4 +1,4 @@
-﻿
+
 
 <body style="background-color: transparent;" leftmargin="0" topmargin="0" alink="#000000" link="#000000" vlink="#000000">
       <div class="titel">- Schulleben -</div>

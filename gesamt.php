@@ -35,6 +35,7 @@
         <section id="inhalt">
             <?php
             $bilder = "";
+            $modal_content = "";
             $path = "aktuelles.php";
             foreach ($_GET as $key => $value) {
                 if ($key == 'sect') {
@@ -45,7 +46,7 @@
                 }
             }
             $datei = include $path;
-            if(!$datei){
+            if (!$datei) {
                 echo "<h3>Seite nicht gefunden</h3>";
             }
             if ($bilder != "") {
@@ -59,6 +60,9 @@
         </section>
         <!--<div id="footer"> Footer</div>-->
     </div>
+    <?php
+    if ($modal_content != "") {
+        echo '
     <div id="modal">
         <div id="modal-content">
             <span id="modal-head"></span>
@@ -67,7 +71,9 @@
                 <?php echo $modal_content; ?>
             </div>
         </div>
-    </div>
+    </div>';
+    }
+    ?>
 </div>
 </body>
 

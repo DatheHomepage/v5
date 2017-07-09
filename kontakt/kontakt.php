@@ -13,7 +13,7 @@
 		$name = "Fr. Gruska";
 	}else{
 		header("Location: http://dathe-gymnasium.de");
-		echo "<script>'//window.location.replace('http://example.com/')</script>";
+		echo "<script>window.location.replace('http://dathe-gymnasium.de')</script>";
 		die();	
 	}
 ?>

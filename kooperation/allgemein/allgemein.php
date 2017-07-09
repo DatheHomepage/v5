@@ -26,12 +26,14 @@
                 <br>Thalia-Grundschule,
                 <br> Modersohn-Grundschule,
                 <br> auch Grzimek-Grundschule und
-                <br>34.Grundschule Scharnweberstr.</br>
+                <br>34.Grundschule Scharnweberstr.
             </td>
             <td>
-                <li>Zus.arbeit bei Übergang von Grund- zur Oberschule</li>
-                <li>Gemeinsame Projekte/ Veranstaltungen</li>
-                <li>Gegenseitige Infos Besonderheiten der Schulform</li>
+                <ul>
+                    <li>Zus.arbeit bei Übergang von Grund- zur Oberschule</li>
+                    <li>Gemeinsame Projekte/ Veranstaltungen</li>
+                    <li>Gegenseitige Infos Besonderheiten der Schulform</li>
+                </ul>
             </td>
             <td>Frau Gruska</td>
         </tr>
@@ -69,10 +71,10 @@
         <tr>
             <td>BIZ Berufsinformationszentrum</td>
             <td>
-                <li>Sprechstunden in der Schule</li>
-                <li>Workshops und Veranstaltungen in den Jahrgängen 9, 10, 11 und 12</li>
-                <br>
-                <br>
+                <ul>
+                    <li>Sprechstunden in der Schule</li>
+                    <li>Workshops und Veranstaltungen in den Jahrgängen 9, 10, 11 und 12</li>
+                </ul>
             </td>
             <td>
                 Berufsberater
@@ -224,9 +226,10 @@
             <td>Tierpark</td>
 
             <td>
-                <li>Tierpatenschaft über die Silberäffchen</li>
-                <li>Tierparkprojekt im Jahrgang 7</li>
-                <li>Kontakt zum Förderverein</li>
+                <ul>
+                    <li>Tierpatenschaft über die Silberäffchen</li>
+                    <li>Tierparkprojekt im Jahrgang 7</li>
+                    <li>Kontakt zum Förderverein</li>
                 </ul>
             </td>
 
@@ -254,9 +257,11 @@
             <td>
                 zur Unterstützung der Schüler/innen
                 <br>
-                <li>alle Fächer/ alle Klassen</li>
-                <li>mit Berlinpass kostenlos</li>
-                <li>sonst 5€ /45min</li>
+                <ul>
+                    <li>alle Fächer/ alle Klassen</li>
+                    <li>mit Berlinpass kostenlos</li>
+                    <li>sonst 5€ /45min</li>
+                </ul>
             </td>
 
             <td>über Klassenleitung</td>
@@ -279,7 +284,7 @@
 
             <td>
                 Foto-Workshop mit Seminarkurs
-                <br>Umwelt baut Brücken</br>
+                <br>Umwelt baut Brücken
             </td>
 
             <td>Herr Fiedler</td>
