@@ -13,7 +13,6 @@
  *
  */
 
-
 /************************/
 /* Artikel              */
 /************************/
@@ -72,7 +71,7 @@
     border: 2px solid red;
 }
 
-.infobox-titel{
+.infobox-titel {
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
@@ -80,7 +79,6 @@
     padding: 0 0 10px 0;
     font-size: 7pt;
 }
-
 
 /************************/
 /* Überschriften        */
@@ -118,12 +116,12 @@
     height: auto;
 }
 
-.bild-s{
+.bild-s {
     width: 20%;
     height: auto;
 }
 
-.bild-links{
+.bild-links {
     float: left;
 }
 
@@ -139,7 +137,6 @@
 
 /* Für bilder in Aktuelles */
 
-
 /************************/
 /* Archiv               */
 /************************/
@@ -150,6 +147,10 @@
     flex-flow: row wrap;
     font-size: 11px;
     text-align: left;
+
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 }
 
 .archiv div {
@@ -188,7 +189,6 @@ th {
 /************************/
 /* Forms                */
 /************************/
-
 
 input,
 textarea {
