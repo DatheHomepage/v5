@@ -23,22 +23,19 @@
 	  <b>-> Wer Lust auf einen Videoeinblick hat, kann hier<a href= "https://www.youtube.com/watch?v=KMhdw6e95jE"> klicken </a>. </b>
  <br><br>
 
-<img style="align: center" src="./schulleben/ganztag/bildganztag.jpg">
+<img src="/schulleben/ganztag/bildganztag.jpg">
 
       </p>
       
       <br>
 <div class="teaser">
 Zu den aktuellen Angeboten<a href="?sect=./schulleben/ganztag/angebote"> hier.</a><br> 
-      </p>
 Zu den allgemeinen Informationen<a href="?sect=./schulleben/ganztag/allgemein"> hier.</a><br><br>
   <hr class="line">
 
   <b> Aktuell</b><br>   
 
-<a href="./schulleben/ganztag/trappenexkursion2016.pdf" target="_blank"> Ein Bericht aus der Vogelkunde - AG von David aus der 6a</a>
+<a href="/schulleben/ganztag/trappenexkursion2016.pdf" target="_blank"> Ein Bericht aus der Vogelkunde - AG von David aus der 6a</a>
 
 
 </div>
-</body>
-</html>

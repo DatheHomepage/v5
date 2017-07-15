@@ -3,7 +3,7 @@ Das Dathe-Gymnasium ist seit diesem Schuljahr eine offene Ganztagsschule mit vie
 <br><br>
 <br><br>
 
-<img style="align: center" src="/schulleben/ganztag/bildganztag.jpg">
+<img src="/schulleben/ganztag/bildganztag.jpg">
 
 
 <br>

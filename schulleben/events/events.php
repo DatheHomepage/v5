@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <?
 $picturepath="bilder";
 ?>
@@ -13,7 +12,7 @@ var der=e;
 var be=b;
 run_scp();
 location.href="#bild";
-document.getElementById("bild_gross").innerHTML="<table><tr><td style=\"border:8px solid gray;\"><img src='<? echo $picturepath; ?>/"+der+".jpg' width=600 style=\"border:8px solid  white; height:450px;\"><br><div style=\"background-color:white;\"><table><tr><td width=10></td><td style=\"font-family:Verdana, sans serif; font-size:10pt; color:black;\" onmouseover=\"this.style.cursor='pointer'; \" onclick=\"run_former("+be+");\">zurück</td><td style=\"font-family:Verdana, sans serif; font-size:10pt; color:black;\">|</td><td style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black;\" onmouseover=\"this.style.cursor='pointer';\" onclick=\"run_next("+be+");\">weiter</td><td width=50></td><td style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black;\">Galeriebild</td><td width=150 height=50 align=right onmouseover=\"this.style.cursor='pointer';\" onclick=\"run_scp(); location.href='#top';\"><span style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black; text-decoration:underline;\">Schliessen</span></td></tr></table></div></td></tr></table><br><br><br><br><br><br><br><br>";
+document.getElementById("bild_gross").innerHTML="<table><tr><td style=\"border:8px solid gray;\"><img src='<? echo $picturepath; ?>/"+der+".jpg' width=600 style=\"border:8px solid  white; height:450px;\"><br><div style=\"background-color:white;\"><table><tr><td width=10></td><td style=\"font-family:Verdana, sans serif; font-size:10pt; color:black;\" onmouseover=\"this.style.cursor='pointer'; \" onclick=\"run_former("+be+");\">zurï¿½ck</td><td style=\"font-family:Verdana, sans serif; font-size:10pt; color:black;\">|</td><td style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black;\" onmouseover=\"this.style.cursor='pointer';\" onclick=\"run_next("+be+");\">weiter</td><td width=50></td><td style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black;\">Galeriebild</td><td width=150 height=50 align=right onmouseover=\"this.style.cursor='pointer';\" onclick=\"run_scp(); location.href='#top';\"><span style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black; text-decoration:underline;\">Schliessen</span></td></tr></table></div></td></tr></table><br><br><br><br><br><br><br><br>";
  //"opacity:0.2; filter:alpha(opacity=20);";
 }
 function run_scp(){
@@ -48,13 +47,13 @@ Events -</div>
       <td>
 	  <div class="teaser">
 	  <br>
-	  <b>Frühlingskonzert 2014</b><br>
-	  Es ist soooooo schön, dass wir, in dieser stressigen Zeit,<br>
-	  mittels unserer Frühlingskonzerte mal einfach so musikalisch entführt werden und<br>
+	  <strong>Frï¿½hlingskonzert 2014</strong><br>
+	  Es ist soooooo schï¿½n, dass wir, in dieser stressigen Zeit,<br>
+	  mittels unserer Frï¿½hlingskonzerte mal einfach so musikalisch entfï¿½hrt werden und<br>
 	  unsere Gedanken von den Korrekturstapeln und den anderen Dingen, die da so warten, wegbekommen.<br>
-	  Liebe Musiklehrkräfte, vielen Dank für die Anstrengungen, die Sie für die Schulgemeinschaft unternommen haben.<br>
-	  Wir haben uns gut unterhalten gefühlt und erfreuten uns an den musikalischen Geschenken, <br> 
-	  die uns unsere Schüler/innen gegeben haben. <br>
+	  Liebe Musiklehrkrï¿½fte, vielen Dank fï¿½r die Anstrengungen, die Sie fï¿½r die Schulgemeinschaft unternommen haben.<br>
+	  Wir haben uns gut unterhalten gefï¿½hlt und erfreuten uns an den musikalischen Geschenken, <br> 
+	  die uns unsere Schï¿½ler/innen gegeben haben. <br>
 	  Schulze (Schulleiterin)<br>
       </div>
 		<br>
@@ -78,9 +77,9 @@ Events -</div>
       <td>
 	  <div class="teaser">
 	  <br>
-	  <b>Weihnachtskonzert 2013</b><br>
-	  Das Weihnachtskonzert war wie jedes Jahr ein voller Erfolg.<br> An zwei Terminen haben die Schülerinnen und Schüler unserer Schule <br>
-	  ihr musikalisches Können auf der Bühne gezeigt.<br>
+	  <strong>Weihnachtskonzert 2013</strong><br>
+	  Das Weihnachtskonzert war wie jedes Jahr ein voller Erfolg.<br> An zwei Terminen haben die Schï¿½lerinnen und Schï¿½ler unserer Schule <br>
+	  ihr musikalisches Kï¿½nnen auf der Bï¿½hne gezeigt.<br>
 	  </div>
 	  <br>
 		<br>
@@ -104,10 +103,10 @@ Events -</div>
 
       <td>
       <div class="teaser">
-	  <b>Tag der offenen Tür 2013</b><br>
-	  Und wieder einmal öffnete die Dathe-Oberschule anlässlich des alljährlichen Tages der offenen Tür ihre Pforten.<br>
-	  Wieder einmal war ein großer Andrang an Besuchern zu verzeichnen. Die Schule bedankt sich bei allen Beteiligten.<br>
-	  Eindrücke vermitteln die folgenden Bilder;<br>
+	  <strong>Tag der offenen Tï¿½r 2013</strong><br>
+	  Und wieder einmal ï¿½ffnete die Dathe-Oberschule anlï¿½sslich des alljï¿½hrlichen Tages der offenen Tï¿½r ihre Pforten.<br>
+	  Wieder einmal war ein groï¿½er Andrang an Besuchern zu verzeichnen. Die Schule bedankt sich bei allen Beteiligten.<br>
+	  Eindrï¿½cke vermitteln die folgenden Bilder;<br>
 	  <br>
 	  <br>
 	  </div>

@@ -102,22 +102,22 @@
 /************************/
 
 .bild-xl {
-    width: 80%;
+    max-width: 80%;
     height: auto;
 }
 
 .bild-l {
-    width: 60%;
+    max-width: 60%;
     height: auto;
 }
 
 .bild-m {
-    width: 40%;
+    max-width: 40%;
     height: auto;
 }
 
 .bild-s {
-    width: 20%;
+    max-width: 20%;
     height: auto;
 }
 

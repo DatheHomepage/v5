@@ -12,13 +12,15 @@
     position: relative;
     font-weight: bold;
     padding-left: 30px;
+    margin-bottom: 30px;
     /* Alle clicks ignorieren, um zufälliges schließen zu verhindern */
     pointer-events: none;
+
 }
 
 #menü a {
     color: black;
-    /* Clicks auf links zulassen */
+    /* Nur clicks auf links zulassen */
     pointer-events: all;
 }
 

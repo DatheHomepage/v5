@@ -4,7 +4,7 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
 <br>
 &gt;&gt; Aktuelles...
 <div id="articles">
-    <hr class="line">
+    <hr>
 
     <div class="artikel artikel-schatten">
         <a href="?sect=./unsereschule/schulprofil/umweltschule/umweltschule">
@@ -17,7 +17,7 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
     </div>
 
 
-    <hr class="line">
+    <hr>
     <div class="artikel artikel-schatten">
         <img class="artikel-bild" alt="" src="/static/bilder/bilder/img_6831.jpg">
         <div class="artikel-titel">23.06.2017 | Klima-Schulpartnerschaft mit Nicaragua</div>
@@ -29,7 +29,7 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
             hier</a>.
     </div>
 
-    <hr class="line">
+    <hr>
     <div class="artikel artikel-schatten">
         <img class="artikel-bild" alt="" src="/teaser/hoffest/hoffest1.jpg">
         <div class="artikel-titel">13.03.2017 | Jubiläum...<br>Schulsozialarbeit am Dathe</div>
@@ -42,7 +42,7 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
         Schulband, mit großem Erfolg die feierliche Preisverleihung von "Jugend forscht" musikalisch umrahmen.
     </div>
 
-    <hr class="line">
+    <hr>
     <div class="artikel artikel-schatten">
         <img class="artikel-bild" alt="" src="./teaser/schule/schule4.jpg">
         <div class="artikel-titel">27.02.2017 | Aktuelles..</div>
@@ -60,7 +60,7 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
         <a href="?sect=./fachbereich/kuwi/spanisch/spanisch">Kontakt mit neuer Partnerschule in Nicaragua</a>
         <br>
     </div>
-    <hr class="line">
+    <hr>
 
 
     <div class="artikel artikel-schatten">
@@ -73,7 +73,7 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
         <br> Der Fachbereich Musik bedankt sich an dieser Stelle recht herzlich!
     </div>
 
-    <hr class="line">
+    <hr>
 
     <div class="artikel artikel-schatten">
         <a href="?sect=./unsereschule/sozialarbeit/sozialarbeit">
@@ -87,7 +87,7 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
         <br>Per Mail sind sie unter <b>sozial@dathe-gymnasium.cidsnet.de erreichbar. </b>
     </div>
 
-    <hr class="line">
+    <hr>
 
     <div class="artikel artikel-schatten">
         <a href="http://www.bwb.de/content/language1/html/18213.php">
@@ -100,7 +100,7 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
         <br>
         <b>Als Gewinn steht nun Allen ein Wasserspender</b> (Eingang zum Sekretariat) zur Verfügung.
     </div>
-    <hr class="line">
+    <hr>
 
 
     <div class="artikel artikel-schatten">
@@ -115,9 +115,9 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
     </div>
 
 
-    <hr class="line">
+    <hr>
 
-    <hr class="line">
+    <hr>
 
     <br>
     <br>

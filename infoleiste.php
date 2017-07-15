@@ -51,5 +51,9 @@
 
 <div class="infobox">
     <div class="infobox-titel">Unsere Seite</div>
-    <a href="?sect=./schulleben/projekte/schulhomepage/schulhomepage">Homepage AG</a>
+    Erstellt und gepflegt von der <a href="?sect=./schulleben/projekte/schulhomepage/schulhomepage">Homepage AG</a>
+    <br>
+    <br>
+    Für Fragen oder Anmekungen<br>
+    <a href="?sect=./kontakt/kontakt&id=2"><i class="fa fa-envelope-o"></i> Kontaktformular</a>
 </div>

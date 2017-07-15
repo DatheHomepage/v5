@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
 
@@ -38,7 +37,7 @@
       <b>05.09.2012 | Staffeltag</b>
 	<br>
 Am 05.09., dem Staffeltag der Berliner Schulen waren wir sehr erfolgreich.
-Die Qualifikation für das Finale steht.
+Die Qualifikation fï¿½r das Finale steht.
 <br>Zu den <a href="http://cust.dynalias.com/cust733194525361/fotostrecken/index.php?&rst=gj3g4gvhghj3ghg4hj3hgh4ghv5jv6vhv3jvhv4hvvl5kj5vhfg3gfg3jhgh59jfddkjfjkkkb66fs28&id=5">weiteren Informationen</a>
 <br><br>
 
@@ -51,10 +50,10 @@ Sch&uuml;ler und alle Lehrkr&auml;fte herzlich.<br>
 
       
 	  Das neue Schuljahr beginnt mit vielen Versammlungen/Konferenzen.<br>
-	  <b>wichtig: 1. EV des Schuljahres </b>am Dienstag, den 21.08. für die Klassen<br>
+	  <b>wichtig: 1. EV des Schuljahres </b>am Dienstag, den 21.08. fï¿½r die Klassen<br>
 	  7c,d,e           18.00 Uhr<br>
 	  5a,b             18.30 Uhr<br>
-	  10a,b,c,d        19.00 Uhr erst in der MzH, dann in den Klassenräumen.
+	  10a,b,c,d        19.00 Uhr erst in der MzH, dann in den Klassenrï¿½umen.
 <br> <br>
 
 	  
