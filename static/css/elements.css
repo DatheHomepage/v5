@@ -210,24 +210,36 @@ label {
 /************************/
 
 #galerie {
-    background-color: gray;
+    border: 2px solid #95C11F;
+}
+
+#galerie-closed {
     padding: 5px;
 }
 
 .galerie-teaser {
     margin: 5px;
-    border: 1px solid green;
+    border: 2px solid green;
 }
 
 #galerie-inner {
-    background-color: lightgray;
-    display: flex;
-    flex-flow: wrap;
+    background: darkgray;
 }
 
 #galerie-steuerung {
     text-align: center;
-    color: white;
+    border-bottom: 2px solid #95C11F;
+    display: flex;
+}
+
+#galerie-steuerung > span {
+    flex: 1;
+    padding: 5px;
+}
+
+#galerie-steuerung > span:nth-child(2) {
+    border-left: 2px solid #95C11F;
+    border-right: 2px solid #95C11F;
 }
 
 #galerie-big {

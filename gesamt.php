@@ -51,6 +51,7 @@
             }
             if ($bilder != "") {
                 include("galerie.php");
+                galerie($dir."/".$bilder);
             }
             ?>
         </section>
