@@ -1,21 +1,21 @@
 <?php $bilder = "/bilder"; ?>
 <div class="titel">- Schulsozialarbeit am Dathe-Gymnasium -</div>
 <div class="artikel">
-	<img src="./unsereschule/sozialarbeit/hoffest.jpg" class="blog-img">
+	<img src="/unsereschule/sozialarbeit/hoffest.jpg" class="artikel-bild">
     In Kooperation mit dem Träger Technische Jugendfreizeit- & Bildungsgesellschaft (<a href="http://www.tjfbg.de/" target="_blank">tjfbg</a>) wurde die Schulsozialarbeit zum 15.02.2016, am Dathe-Gymnasium ins Leben gerufen. Frau Ziller ist seitdem dort als Schulsozialarbeiterin tätig und Frau Chevallier am 4.01.2017 dazu eingestiegen. Per Mail sind sie unter sozial@dathe-gymnasium.cidsnet.de erreichbar.
 </div>
 <br><br>
 <hr class="line">
 <br>
 <div class="artikel">
-<img class="blog-img" alt="" src="./teaser/schule/schule7.jpg"><b>21.06.17 | Schulsozialarbeit Handy und Mediennutzung</b><br>
-Die Schulsozialarbeiterinnen laden ein, genauere Infos dazu <a href="./unsereschule/sozialarbeit/einladungzurveranstaltung.pdf" target="_blank">hier</a>.
+<img class="blog-img" alt="" src="/teaser/schule/schule7.jpg"><b>21.06.17 | Schulsozialarbeit Handy und Mediennutzung</b><br>
+Die Schulsozialarbeiterinnen laden ein, genauere Infos dazu <a href="/unsereschule/sozialarbeit/einladungzurveranstaltung.pdf" target="_blank">hier</a>.
 </div>
 <br><br>
 <hr class="line">
 <br>
-<img src="./unsereschule/sozialarbeit/schulsozialarbeit.jpg" class="blog-img">
-<a href="./unsereschule/sozialarbeit/artikelSchulsozialarbeit.pdf" target="_blank">mehr Information</a>
+<img src="/unsereschule/sozialarbeit/schulsozialarbeit.jpg" class="blog-img">
+<a href="/unsereschule/sozialarbeit/artikelSchulsozialarbeit.pdf" target="_blank">mehr Information</a>
 <br>Per Mail sind sie unter sozial@dathe-gymnasium.cidsnet.de erreichbar.
 <br><br><br><br>
 <hr class="line">
@@ -33,13 +33,13 @@ Es war ein schönes Fest und wir freuen uns nächstes Schuljahr unser zweites Ju
 Marielle Ziller und Mathilde Chevallier" 
 <br>
 <br>
-<hr class="line">
+<hr>
 <br>
 <b>Eukitea Präventionstheater für alle 8. Klassen</b><br><br>
 Am 25. und 26.01.2017 fand das Eukitea Präventionstheater mit dem thematischen Schwerpunkt der Resilienz. Ein Bericht <a href="./unsereschule/sozialarbeit/Eukitea.pdf">hier.</a>
 <br>
 <br>
-<hr class="linse">
+<hr>
 Auch in diesen Sommerferien begaben sich wieder 17 Schülerinnen und Schüler aus dem Albrecht-Dürrer Gymansium (Neukölln), der Carl-von-Ossietzky Gemeinschaftsschule (Kreuzberg), dem Dathe Gymnasium (Friedrichshain) und dem Gymnasium Tiergarten (Moabit), mit ihren vier SchulsozialarbeiterInnen auf eine Wandertour.<br><a href="./unsereschule/sozialarbeit/2016WatzmannBericht.pdf">Hier ein Bericht.</a>
 <br><br>
 <div id="galerie"></div>

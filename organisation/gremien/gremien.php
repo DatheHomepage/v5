@@ -1,30 +1,22 @@
 <div class="titel">- Gremien -</div>
 Diese Seite soll Ihnen einen
-&Uuml;berblick
-&uuml;ber die Mitglieder der Schulgremien, Sch&uuml;ler- und
+Überblick
+über die Mitglieder der Schulgremien, Schüler- und
 Elternsprecher liefern.
 
 <hr class="line">
 
 <br>
 
-<span class="teaser">Vertreter der
-Lehrerinnen und Lehrer </span><br class="teaser">
-
-<span class="teaser">f&uuml;r die schulischen
-Gremien im Schuljahr 2016/2017:</span><br class="teaser">
+Vertreter der Lehrerinnen und Lehrer<br>
+für die schulischen Gremien im Schuljahr 2016/2017:
 
 <br>
-
 <table>
     <tr>
-
         <th>Gremium</th>
-
         <th style="width: 262px;">Vertreter/innen</th>
-
         <th>Stellvertreter/innen</th>
-
     </tr>
 
     <tr>
@@ -56,17 +48,11 @@ Gremien im Schuljahr 2016/2017:</span><br class="teaser">
 
         <td>Gesamtelternvertretung</td>
 
-        <td style="width: 262px;">Frau Grohe<br>
-
+        <td>
+            Frau Grohe<br>
             Frau Lang<br>
-
         </td>
-
-        <td>.<br>
-
-            <br>
-
-        </td>
+        <td></td>
 
     </tr>
 
@@ -90,16 +76,13 @@ Gremien im Schuljahr 2016/2017:</span><br class="teaser">
 
     <tr>
 
-        <td>Gesamtsch&uuml;lervertretung</td>
+        <td>Gesamtschülervertretung</td>
 
         <td>Herr Schneider<br>
             Herr Pitt
         </td>
 
-        <td>Herr Luzardo
-
-            <br>
-        </td>
+        <td>Herr Luzardo</td>
 
     </tr>
 
@@ -108,7 +91,6 @@ Gremien im Schuljahr 2016/2017:</span><br class="teaser">
         <td>Vermittlungsausschuss</td>
 
         <td>
-
             Herr Fiedler<br>
             Frau Tarbiat
         </td>
@@ -241,7 +223,7 @@ Gremien im Schuljahr 2016/2017:</span><br class="teaser">
 
     <tr>
 
-        <td>Gesamtsch&uuml;lervertretung</td>
+        <td>Gesamtschülervertretung</td>
 
         <td>Frau Richter<br>
 

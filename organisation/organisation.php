@@ -77,7 +77,7 @@ Kontakt per Email:<br>
 	<br><br>
 	<h4>Übersicht aller Lehrer und Lehrerinnen </h4>
 	<br>
-	<a href="./organisation/kollegium_2016_17.pdf" target="_blank"><img src="./organisation/kollegium_2016_17.png" width="600px" heght="450px"></a>
+	<a href="/organisation/kollegium_2016_17.pdf" target="_blank"><img src="/organisation/kollegium_2016_17.png" class="bild-xl"></a>
 	<!--<b>Besucher:</b><br><br>
 	<!--<a id="729268" href="http://www.gratis-besucherzaehler.de">Script Für Besucherzähler</a>
 	<script type="text/javascript" language="JavaScript" src="http://www.gratis-besucherzaehler.com/counter_js.php?account=729268&style=6"></script>-->

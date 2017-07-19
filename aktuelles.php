@@ -5,7 +5,19 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
 &gt;&gt; Aktuelles...
 <div id="articles">
     <hr>
+    <div class="artikel artikel-schatten">
+        <a href="?sect=./fachbereich/gewi/ubb/ubb">
+            <img class="artikel-bild" alt="" src="./teaser/ubbteaser.jpg">
+        </a>
+        <div class="artikel-titel">10.07.2017 | "Umwelt baut Brücken" (UbB) am Dathe</div>
+        Erfolgreiche Rückkehr vom Schüleraustausch mit Poprad (Slowakei) Die Schüler/innen des Seminarkurses UbB
+        sind wieder
+        wohlbehalten zurück und haben gemeinsam mit den slowakischen Austauschpartner/innen ein abwechslungsreiches
+        Programm absolviert. <a href="?sect=./fachbereich/gewi/ubb/ubb2017_2">Mehr Infos hier</a>.
+        <br>
+    </div>
 
+    <hr>
     <div class="artikel artikel-schatten">
         <a href="?sect=./unsereschule/schulprofil/umweltschule/umweltschule">
             <img class="artikel-bild" alt="" src="./static/bilder/logos/umweltschule.png">
@@ -109,14 +121,8 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
         Die Abiturienten Luise L. und Felix N. erhalten für ihre Seminararbeiten im Bereich der Besonderen
         Lernleistung Preise der ILSE BALG STIFTUNG. Die Preisverleihung findet am 06.07. im Märkischen Museum statt.
         Herzlichen Glückwunsch!
-        <br>
-
-
     </div>
-
-
     <hr>
-
     <hr>
 
     <br>

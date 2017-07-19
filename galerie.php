@@ -10,7 +10,7 @@ $bilder_js = "";
 function galerie($abs_path)
 {
     global $bilder_js;
-    $erlaubte_formate = array('.ico', '.png', '.jpg');
+    $erlaubte_formate = array('.png', '.jpg');
 
     $bilder_arr = array();
     if ($handle = opendir($abs_path)) {
@@ -26,12 +26,12 @@ function galerie($abs_path)
     closeDir($handle);
     $bilder_html = "";
     foreach($bilder_arr as $key => $bild){
-        $bilder_html .= "<a href='#galerie'><img src='$bild' class='galerie-teaser' id='$key' width='75' height='75'/></a>";
+        $bilder_html .= "<img src='$bild' id='$key' class='galerie-teaser'>";
         $bilder_js .= "'$bild',";
     }
     $html_vorlage = "<div id='galerie-open'>
                         <div id='galerie-steuerung'>
-                            <span id='back' class='maus-hand'> &lt;-- Zurück</span><span id='close' class='maus-hand'>Schließen</span><span id='next' class='maus-hand'>Nächstes --&gt; </span>
+                            <span id='back' class='maus-hand'><i class='fa fa-arrow-left'></i> Zurück</span><span id='close' class='maus-hand'>Schließen</span><span id='next' class='maus-hand'>Nächstes <i class='fa fa-arrow-right'></i></span>
                         </div>
                         <div id='galerie-inner'>
                             <img src='' id='galerie-big' class='bild-mittig'/>
@@ -64,7 +64,7 @@ function galerie($abs_path)
                 $("#galerie-big").attr('src', this.bilder[this.current]);
             }
         };
-        BilderGalerie.prototype.toggleDisplay = function (bild) {
+        BilderGalerie.prototype.toggleDisplay = function () {
             this.zoom = !this.zoom;
             if (this.zoom === true) {
                 $("#galerie-open").show();
@@ -85,10 +85,9 @@ function galerie($abs_path)
             let galerie = new BilderGalerie();
             galerie.toggleDisplay();
 
-            $(document.body).on('click', ".galerie-teaser", function () {
+            $(".galerie-teaser").click(function () {
                 galerie.current = parseInt(this.id);
-                galerie.toggleDisplay(this);
-
+                galerie.toggleDisplay();
             });
 
             $(document.body).on('click', "#back", function () {

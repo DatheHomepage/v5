@@ -11,7 +11,7 @@
     <link rel="Stylesheet" href="static/css/formatierungen.css" media="screen">
     <link rel="stylesheet" href="static/css/font-awesome.min.css">
 
-    <link rel="icon" href="favicon.ico" type="image/ico" sizes="16x16">
+    <link rel="icon" href="/static/bilder/elemente/favicon.ico" type="image/ico" sizes="16x16">
 
     <script src="static/js/jquery-3.2.1.min.js"></script>
     <script src="static/js/ticker.js"></script>
@@ -48,22 +48,22 @@
             $datei = include $path;
             if (!$datei) {
                 echo "<h3>Seite nicht gefunden</h3>";
-            }
-            if ($bilder != "") {
-                include("galerie.php");
-                galerie($dir."/".$bilder);
+            } else {
+                if ($bilder != "") {
+                    include("galerie.php");
+                    galerie($dir . "/" . $bilder);
+                }
             }
             ?>
         </section>
 
         <section id="sidebar">
-            <?php include("infoleiste.php"); ?>
+            <?php include ("infoleiste.php"); ?>
         </section>
-        <!--<div id="footer"> Footer</div>-->
     </div>
     <?php
     if ($modal_content != "") {
-        echo '
+    echo '
     <div id="modal">
         <div id="modal-content">
             <span id="modal-head"></span>
