@@ -31,25 +31,33 @@
 }
 
 #menü li {
-    padding: 2px 2px 2px 20px;
+    padding: 2px 2px 2px 15px;
     cursor: default;
-    margin: 5px -35px;
+    margin: 5px -30px;
     position: relative;
     list-style: none;
 }
 
 #menü li.expand::before {
-    content: url(/static/bilder/elemente/arrow_down.gif);
+    content: '\f0da';
+    font-family: FontAwesome;
+    font-size: 16px;
     position: absolute;
-    left: 5px;
-    top: 0;
+    left: 1px;
     cursor: pointer;
+
     /* Clicks auf Pfeil zulassen */
     pointer-events: all;
 }
 
 #menü li.expanded::before {
-    content: url(/static/bilder/elemente/arrow_up.gif);
+    content: '\f0d7';
+    font-family: FontAwesome;
+    font-size: 16px;
+    position: absolute;
+    left: 1px;
+    cursor: pointer;
+
     /* Clicks auf Pfeil zulassen */
     pointer-events: all;
 }
