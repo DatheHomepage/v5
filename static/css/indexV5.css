@@ -186,10 +186,7 @@ html, body {
         left: 26%;
     }
 
-    .table-responsive {
-        /* Scrollbar um Tabelle einfügen */
-        overflow-x: auto;
-    }
+
 }
 
 @media (max-width: 700px) { /* Mobil */

@@ -190,6 +190,11 @@ th {
     border: 0 solid #FFFFFF;
 }
 
+.table-responsive {
+    /* Scrollbar um Tabelle einfügen */
+    overflow-x: auto;
+}
+
 /************************/
 /* Forms                */
 /************************/

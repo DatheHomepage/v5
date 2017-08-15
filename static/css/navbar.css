@@ -15,7 +15,6 @@
     margin-bottom: 30px;
     /* Alle clicks ignorieren, um zufälliges schließen zu verhindern */
     pointer-events: none;
-
 }
 
 #menü a {
@@ -27,11 +26,10 @@
 #menü ul {
     display: none;
     padding-left: 30px;
-
 }
 
 #menü li {
-    padding: 2px 2px 2px 15px;
+    padding: 2px 2px 0 15px;
     cursor: default;
     margin: 5px -30px;
     position: relative;
@@ -41,7 +39,7 @@
 #menü li.expand::before {
     content: '\f0da';
     font-family: FontAwesome;
-    font-size: 16px;
+    font-size: 15px;
     position: absolute;
     left: 1px;
     cursor: pointer;
@@ -53,9 +51,9 @@
 #menü li.expanded::before {
     content: '\f0d7';
     font-family: FontAwesome;
-    font-size: 16px;
+    font-size: 15px;
     position: absolute;
-    left: 1px;
+    left: -2px;
     cursor: pointer;
 
     /* Clicks auf Pfeil zulassen */
