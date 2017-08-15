@@ -280,3 +280,11 @@ label {
 .nav-horizontal > span:first-child {
     border-left-width: 2px;
 }
+
+/************************/
+/* Linkbox              */
+/************************/
+
+.linkbox {
+    border: 2px solid #95C11F;
+}

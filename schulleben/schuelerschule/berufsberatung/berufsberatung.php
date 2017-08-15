@@ -1,43 +1,17 @@
-
-
-
-
-
- 
-
-    
-
-      
-      <div class="titel" >- Berufsberatung an der Dathe-OS -</div>
-
-      
-
-      
-     
-     
-      <div class="teaser"> Was mache ich nach dem Abi??? <br>
+<div class="titel" >- Berufsberatung am Dathe-Gymnasium -</div>
+Was mache ich nach dem Abi??? <br>
+<br>
+<div class="artikel">
+    <div class="artikel-titel">Angebot für alle Schüler/innen&nbsp;der Klassen 9-13</div>
+    Unser Berufsberater Herr Meise lädt zu seinen Sprechstunden ein.<br>
+    Bitte tragt euch bei Terminwünschen in die Liste neben dem Raum 207 ein!<br>
+    <br>
+    Ort:    Raum 319&nbsp;<br>
+    Email:  gerald.meise@arbeitsagentur.de
+</div>
 
 <br>
+<hr>
 <br>
-    <b>  Angebot für alle Schüler/innen &nbsp;der Klassen 9-13</b><br>
-<br>
-      <br>
-
-Unser Berufsberater Herr Meise lädt zu seinen Sprechstunden ein.<br>
-
-Ort: Raum 319&nbsp;<br>
-Email: gerald.meise@arbeitsagentur.de<br>
-<br>
-      Bitte tragt euch bei Terminw&uuml;nschen in die Liste neben dem Raum 207 ein!<br>
-
-&nbsp;&nbsp;&nbsp;<br>
-
-      <br>
-      <p>Ansprechpartnerin f&uuml;r das Thema Berufsberatung und Praktikum Klasse 9:<br>
-</p>
-&nbsp;<b>Frau Kiefer</b><br>
-
-     
-      <br>
-
-  </div>
+<b>Ansprechpartnerin für das Thema Berufsberatung und Praktikum Klasse 9:</b><br>
+Frau Kiefer
