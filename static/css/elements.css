@@ -10,6 +10,7 @@
  * Form
  * Bildergalerie
  * Horizontales Menü
+ * Linie
  *
  */
 
@@ -287,4 +288,15 @@ label {
 
 .linkbox {
     border: 2px solid #95C11F;
+}
+
+/************************/
+/* Linie                */
+/************************/
+
+hr {
+    border-style: solid;
+    color: #006A32;
+    background-color: #006A32;
+    margin: 20px 0;
 }

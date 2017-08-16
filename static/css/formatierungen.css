@@ -3,7 +3,7 @@
  *      Inhalt
  * Links
  * Text
- * Linie
+ * Ränder
  */
 
 /************************/
@@ -39,6 +39,10 @@ a:hover {
     text-align: center;
 }
 
+.text-einzug {
+    margin-left: 1em;
+}
+
 /************************/
 /* Maus                 */
 /************************/
@@ -52,12 +56,17 @@ a:hover {
 }
 
 /************************/
-/* Linie                */
+/* Ränder               */
 /************************/
 
-hr {
-    border-style: solid;
-    color: #006A32;
-    background-color: #006A32;
-    margin: 20px 0;
+.rand-primär {
+    border: 1px solid #006A32;
+}
+
+.rand-sekundär {
+    border: 1px solid #95C11F;
+}
+
+.rand-dick {
+    border-width: 2px;
 }
