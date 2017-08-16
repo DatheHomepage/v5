@@ -32,38 +32,32 @@ Informationen zu organisatorischen Angelegenheiten finden Sie hier:
 </div>
 
 <hr>
-<div class="subtitel">- Kontakt -</div>
-Kontakt per Email:<br>
-<a href="/organisation/mails.pdf" target="_blank">Schul-Email-Liste aller wichtigen Ansprechpartner</a>
+<div class="titel">- Kontakt -</div>
+<b>Kontakt per Email</b>
+<div class="text-einzug">
+    <a href="/organisation/mails.pdf" target="_blank">Hier eine Liste aller wichtigen Ansprechpartner</a>
+</div>
+<br>
 
-<table>
-    <tr>
-        <th>Kontakt</th>
-        <th>Vorgehen</th>
-    </tr>
-    <tr>
-        <td>Sie wollen die Schulleiterin sprechen?</td>
-        <td>
-            Bitte rufen Sie im Sekretariat unter 2936063 an und vereinbaren Sie, gern mit Hinweis auf Ihr Anliegen,
-            einen Termin.
-        </td>
-    </tr>
-    <tr>
-        <td>Sie möchten eine Lehrkraft sprechen und haben keine Mailadresse oder Telefonnummer?</td>
-        <td>
-            Bitte rufen Sie im Sekretariat unter <i>2936063</i> an.<br>
-            Die Sekretärin wird die gewünschte Lehrkraft über Ihr Anliegen und gegebenenfalls
-            die mögliche Kontaktform imformieren. <br>
-            Sollten Sie binnen 10 Tagen keine Mailantwort oder keinen Anruf erhalten haben, so rufen Sie bitte
-            nochmal an. <br>
-            Die Lehrkraft könnte langfristig abwesend sein.
-        </td>
-    </tr>
-</table>
+<b>Sie wollen die Schulleiterin sprechen?</b>
+<div class="text-einzug">
+    Bitte rufen Sie im Sekretariat unter <a href="tel:+49 30 2936063"><i>+49 30 2936063</i></a> an und vereinbaren Sie,
+    gern mit Hinweis auf Ihr Anliegen, einen Termin.
+</div>
+<br>
 
+<b>Sie möchten eine Lehrkraft sprechen und haben keine Mailadresse oder Telefonnummer?</b>
+<div class="text-einzug">
+    Bitte rufen Sie im Sekretariat unter <a href="tel:+49 30 2936063"><i>+49 30 2936063</i></a> an.<br>
+    Die Sekretärin wird die gewünschte Lehrkraft über Ihr Anliegen und gegebenenfalls
+    die mögliche Kontaktform imformieren. <br>
+    Sollten Sie binnen 10 Tagen keine Mailantwort oder keinen Anruf erhalten haben, so rufen Sie bitte
+    nochmal an. <br>
+    Die Lehrkraft könnte langfristig abwesend sein.
+</div>
 <hr>
-
-<h4>Übersicht aller Lehrer und Lehrerinnen </h4>
+<b>Übersicht aller Lehrer und Lehrerinnen</b>
+<br><br>
 <a href="/organisation/kollegium_2016_17.pdf" target="_blank">
-    <img src="/organisation/kollegium_2016_17.png" class="bild-xl">
+    <img src="/organisation/kollegium_2016_17.png" class="bild-xl bild-mittig rand-sekundär">
 </a>
