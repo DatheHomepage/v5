@@ -18,6 +18,27 @@
     <script src="static/js/script.js"></script>
     <script src="static/js/menu.js"></script>
 
+    <script>
+        var $buoop = {
+            vs: {i: 10, f: -4, o: -4, s: 8, c: -4},
+            unsecure: true,
+            api: 4,
+            text: "<b>Ihr Webbrowser ({brow_name}) ist veraltet.</b> Aktualisieren Sie Ihren Browser für mehr Sicherheit, Komfort und die einwandfreie Nutzung dieser Webseite. <a id=\"buorgul\" href=\"http://browser-update.org/update-browser.html#24:localhost\" target=\"_blank\" rel=\"noopener\">Browser Aktualisieren</a> <a id=\"buorgig\" href=\"\">Ignorieren</a>",
+        };
+
+        function $buo_f() {
+            var e = document.createElement("script");
+            e.src = "//browser-update.org/update.min.js";
+            document.body.appendChild(e);
+        };
+        try {
+            document.addEventListener("DOMContentLoaded", $buo_f, false)
+        }
+        catch (e) {
+            window.attachEvent("onload", $buo_f)
+        }
+    </script>
+
     <title>Dathe-Gymnasium</title>
 </head>
 
@@ -58,12 +79,12 @@
         </section>
 
         <section id="sidebar">
-            <?php include ("infoleiste.php"); ?>
+            <?php include("infoleiste.php"); ?>
         </section>
     </div>
     <?php
     if ($modal_content != "") {
-    echo '
+        echo '
     <div id="modal">
         <div id="modal-content">
             <span id="modal-head"></span>
