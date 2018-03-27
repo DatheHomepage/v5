@@ -1,5 +1,6 @@
 <div class="titel">- Geschichte der Dathe-Oberschule -</div>
-<div class="teaser">
+
+<br>
 In den Jahren 1908 sowie 1909 wurde das heutige DATHE-GYMNASIUM
 errichtet. Die Baukosten betrugen seiner Zeit etwa 750.000 Reichsmark.<br>
 
@@ -17,7 +18,7 @@ am&nbsp; gesamten Schulgeb&auml;ude, stammen von dem Bildhauer Joseph Rauch<br>
 besten Werken gez&auml;hlt.<br>
 
       </div>
-
+ <img class="artikel-bild" alt="" src="./teaser/schule/schule2.jpg">
       <br>
 
 Nach 1945 wurden aus der Knaben/ M&auml;dchen - Schule die 6. und
@@ -39,8 +40,8 @@ von "perfekt" die Rede sein kann) wie heute. Herr Vogler organisierte Aquarien u
 Lehrer ).<br>
 
 &nbsp; <br>
-
-      <img style="width: 450px; height: 206px;" alt="" src="schule.gif"><br>
+<img class="artikel-bild" alt="" src="./teaser/schule/schule13.jpg">
+      <br>
 
 &nbsp; <br>
 
@@ -49,8 +50,8 @@ innen ihre Haustiere mitbrachten, sollten zum besseren
 Verst&auml;ndnis der Natur beitragen. Sp&auml;ter kamen zu den
 Aquarien Terrarien und viele Tiere hinzu.<br>
 
-      <br>
-
+      
+<br>
 Heute besitzt die Biologie-Station &uuml;ber 1000 Tiere in rund 50
 Tierarten!!<br>
 
@@ -99,7 +100,6 @@ Biostation und Prof. Dathes.<br>
 
       <a href="?sect=./unsereschule/geschichte/jubilaeum">mehr dazu hier...</a><br>
 
-      </div>
+     
 
-</body>
-</html>
+

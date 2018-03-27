@@ -27,7 +27,7 @@
     <br>
 
     <br> In diesem Projekt setzten wir uns intensiv mit unserem Namensgeber auseinander.
-    <br> Die Stellungnahme der 10a zur Diskussion um unsere Namensgebung findet ihr <a href="diskussion.php"> hier</a>.
+    <br> Die Stellungnahme der 10a zur Diskussion um unsere Namensgebung findet ihr <a href="./unsereschule/geschichte/diskussion.php"> hier</a>.
     <br>
     <br>
     

@@ -21,14 +21,13 @@
         <br>
         <br>
 
-        <a href="?sect=./fachbereich/sport/skikurs/skikurs15">Hier geht's zum Bericht des diesjährigen Skikurses</a>
+         <div class="linkbox"><a href="?sect=./fachbereich/sport/skikurs/skikurs18">Hier geht's zum Bericht des diesjährigen Skikurses</a>
         <br>
-        <hr>
-        <br>
+       
+         </div class="linkbox">
 
 
 
-        <br>
 
         <p class="rubrik">&raquo; Teamgeist &amp; Toleranz</p>
 
@@ -99,7 +98,7 @@
             <li>Leichtathletik,</li>
 
 
-            <li>Volleyball, Basketball,Fußball und Handball, </li>
+            <li>Volleyball, Basketball, Fußball und Handball, </li>
 
 
             <li>Fitness, Turnen, Gymnastik/ Tanz, </li>
@@ -114,25 +113,16 @@
 
         </ul>
         <br>
+       
+
+        <p>Die Möglichkeit sich an einem vielseitigen Angebot an Arbeitsgemeinschaften zu beteiligen.</p>
+
+
+
         <br>
 
-        <p>die Möglichkeit sich an einem vielseitigen Angebot an Arbeitsgemeinschaften zu beteiligen.</p>
 
-
-        Hier einige Bilder von den Bundesjugendspielen, unserem Partner den EHC Eisbären und den freundlichen Helfern&nbsp;im Olympiastadion beim U16 Fußballländerspiel Deutschland- Frankreich im Mai 2009.
-        <br>
-
-
-
-
-        <hr class="line">
-
-
-        <div id="galerie"></div>
-
-
-
-        <hr class="line">
+   
 
 
         <div class="teaserCenter">&raquo; Ansprechpartner für den Fachbereich Sport: Herr Zauber

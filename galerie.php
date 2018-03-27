@@ -38,7 +38,7 @@ function galerie($abs_path)
                         </div>
                      </div>
                      <div id='galerie-closed'>
-                         <div>Clicken zum vergrößern</div>
+                         <div>Klicken zum vergrößern</div>
                          <div id='galerie-teaser'>
                             $bilder_html
                          </div>
@@ -79,10 +79,10 @@ function galerie($abs_path)
     }
 
     $(function () {
-        let galerie_div = $('#galerie');
+         galerie_div = $('#galerie');
         if (galerie_div.length) {
             galerie_div.html(`<?php echo $html_vorlage ?>`);
-            let galerie = new BilderGalerie();
+            var galerie = new BilderGalerie();
             galerie.toggleDisplay();
 
             $(".galerie-teaser").click(function () {

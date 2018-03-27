@@ -1,8 +1,12 @@
-<?php
+﻿<?php
 $bilder="bilder/";
 ?>
 
 <div class="titel">- Umwelt baut Brücken<br> 2015 / 2016</div>
+	<br>
+      
+      <div class="teaser">
+      <br>
 <p>Umwelt baut Brücken- Poprad, Slowakei 
 
 Vom 15.06. bis zum 23.06.2016 ist Herr Fiedler mal wieder in die Slowakei gefahren. Netterweise hat er uns mitgenommen ( Gruppenfoto von der Wanderung) 
@@ -17,3 +21,8 @@ PS: Es gibt Pizza für 1€ in der Slowakei
  <br><br>
  <div id="galerie"></div>
  <div align="center" style="position:relative; top:0px; left:0px; margin-left: auto; margin-right: auto;" id="bild_gross"></div>
+ 
+</p>
+</div>
+
+

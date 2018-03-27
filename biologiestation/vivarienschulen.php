@@ -1,34 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-
-  <link type="text/css" href="../dathe-os.css" rel="stylesheet">
-  <title></title>
-
-
-</head>
-
-
-<body>
+﻿
 	<div class="titel">- Biologiestation -</div>
 	<br>
 	<div class="teaser">
     <b>Ring Vivariumschulen</b><br><br>
-	<hr class="line">
+	<hr>
 
-    <p>"Die Sache der Tiere steht h&ouml;her f&uuml;r mich als die<br>
-	Sorge, mich l&auml;cherlich zu machen, sie ist unl&ouml;sbar<br>
-	verkn&uuml;pft mit der Sache der Menschen."<br>
-
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Emile Zola</i></p>
-
-            </p>
-
-          
+           
             <p>Schulen mit Aquaristik-Arbeitsgemeinschaften haben
 sich zu einem Ring
 der Vivarienschulen zusammengeschlossen. Die partnerschaftliche
@@ -43,9 +20,9 @@ Vivariumschulen geh&ouml;ren derzeit bundesweit zehn Schulen an.<br>
             <p><a href="?sect=./biologiestation/biologiestation">I. Unsere Biologie-Station
 
             </a><br>
-			<a href="?sect=./biologiestation/praesentation">II. Pr&auml;sentation</a><br>
+			<a href="?sect=./biologiestation/praesentation">II. Präsentation</a><br>
 
-            <a href="?sect=./biologiestation/ziele">III. P&auml;dagogische Ziele</a><br>
+            <a href="?sect=./biologiestation/ziele">III. Pädagogische Ziele</a><br>
 
             <a href="?sect=./biologiestation/aufgaben">IV. Aufgaben</a><br>
 
@@ -75,13 +52,14 @@ die Rhein-Main International Montessori School.<br>
 
         
                   <div align="center"><img style="border: 1px solid" alt="" src="bilder/Agame.jpg"></div>
-
+<hr>
+<iframe src="https://www.google.com/maps/d/embed?mid=1aE-e4ymbfOt2xKfp4jkrtGp4qE7BAZeQ" width="640" height="480"></iframe>
                   
-            <p> <br>
+            <br>
 
-Weiterf&uuml;hrende Informationen anderer Schulen im Internet.</p>
+Weiterführende Informationen anderer Schulen im Internet.
 
-            <p>&raquo; <a href="http://www.hansthiele.de/" target="_blank">http://www.hansthiele.de/</a><br>
+            &raquo; <a href="http://www.hansthiele.de/" target="_blank">http://www.hansthiele.de/</a><br>
 
 Die Aquaristik-Terraristik-AG der Max-Planck-Schule in Kiel<br>
 
@@ -89,7 +67,7 @@ Die Aquaristik-Terraristik-AG der Max-Planck-Schule in Kiel<br>
 
 &raquo; <a href="http://www.vivarium.modellschule-obersberg.de/" target="_blank">http://www.vivarium.modellschule-obersberg.de/</a><br>
 
-Die Modellschule Obersberg stellt ihr Vivarium vor.</p>
+Die Modellschule Obersberg stellt ihr Vivarium vor.
 
         </div>
 

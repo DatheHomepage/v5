@@ -2,7 +2,7 @@
 <p class="subtitel">&raquo; Die Projektgruppe Internet &laquo;</p>
 Auf dieser Seite stellen sich alle Mitarbeiter der Homepage-AG vor.<br>
 <br>
-<br> Homepage AG: Oisín, Ben, Torben und Alex
+
 <br>
 <table>
     <tr>
@@ -10,7 +10,7 @@ Auf dieser Seite stellen sich alle Mitarbeiter der Homepage-AG vor.<br>
     </tr>
 
     <tr>
-        <td>Oisin Smith (Q2)</td>
+        <td>Oisin Smith (Q3)</td>
         <td>
             Oisín ist zuverlässig und kreativ, mitunter sogar von zu Hause aus. Er
             arbeitet sehr selbstständig und findet für die meisten Probleme eine Lösung.
@@ -19,7 +19,7 @@ Auf dieser Seite stellen sich alle Mitarbeiter der Homepage-AG vor.<br>
     </tr>
 
     <tr>
-        <td>Ben Eltschig (9a)</td>
+        <td>Ben Eltschig (10a)</td>
         <td>
             Ben ist kreativ, experimentierfreudig,
             zuverlässig und hat für sein Alter sehr umfangreiche Kenntnisse im Programmieren.
@@ -27,32 +27,37 @@ Auf dieser Seite stellen sich alle Mitarbeiter der Homepage-AG vor.<br>
         </td>
     </tr>
     <tr>
-        <td>Torben Schilling (9b)</td>
+        <td>Torben Schilling (10b)</td>
         <td>
+            Torben ist sowohl in der Schülervertretung als auch in der Homaepage AG aktiv und setzt sich immer gern für die Schule ein.
+        </td>
+    </tr>
+	<tr>
+        <td>Max Rohrig (10a)</td>
+        <td>
+            Max ist immer da und kümmert sich zuverlässig um das, was man ihm aufgibt.
+            Seine Aufgaben packt er immer voller Energie an und löst sie zuverlässig.
         </td>
     </tr>
     <tr>
-        <td>Korbinian Mann (7a)</td>
+        <td>Korbinian Mann (8a)</td>
         <td>
             Unser Nachwuchs 1, gibt sich schon richtig viel Mühe.
         </td>
     </tr>
-    <tr>
-        <td>Michael Leichtfuss (7a)</td>
+	
+	<tr>
+        </td>
+		 <td>Simon Pichert (7b)</td>
         <td>
-            Unser Nachwuchs 2, gibt sich nicht immer so viel Mühe, aber wenn, passt er sehr gut auf.
+            Unser Nachwuchs 2, ist erst kurz dabei, aber wir hoffen auf gute Unterstützung.
         </td>
     </tr>
+  
     <tr>
-        <td>Alexander Mohr (9d)</td>
+        <td>Lisa Bauer (10d) </td>
         <td>
-            Alex ist nicht immer der Geduldigste, aber er bringt die AG weiter.
-        </td>
-    </tr>
-    <tr>
-        <td>Lisa Bauer (9d) / <br> Marlene Schiff (9d)</td>
-        <td>
-            Lisa und Marlene sind unsere Neuankömmlinge, wir freuen uns über weibliche Unterstützung.
+            Wir freuen uns über weibliche Unterstützung.
         </td>
     </tr>
     <tr>

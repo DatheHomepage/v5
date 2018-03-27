@@ -8,16 +8,18 @@ Schnelllernerklassen der Dathe-Schule</a><br><br>
 </div>
 <div class="gruen">
     <a href="http://digga.alex-berlin.de/ein-tag-bei-alex-tv/">
-    <img src="./fachbereich/enrichment/Blog_9_png.png" width="200" height="150">
+    <img src="./fachbereich/enrichment/Blog_9_png.png" width="20%" height="20%">
     <p>9a Medien Project Alex TV 2016<br>
 	</p>
     </a>
 	Die Sendung läuft auf Alex TV  am 23.6. / 14.7. / 23.7.2017 jeweils um 16.00 Uhr.
 	Mehr dazu <a href="./fachbereich/enrichment/blog_9b.pdf">hier</a> von der 9b und <a href="./fachbereich/enrichment/blog_9a.pdf">hier</a> von der 9a.
-</div>
+<br>
+<br>
+	</div>
 <div class="gruen">
     <a href="./fachbereich/enrichment/enrichmentunt">
-    <img src="./fachbereich/enrichment/enrichment_10_png.png" width="200" height="150">
+    <img src="./fachbereich/enrichment/enrichment_10_png.png" width="20%" height="20%">
     <p>Begegnung mit finnischer Schülergruppe (Gro/Tar)<br>
 	</p>
     </a>
@@ -25,7 +27,7 @@ Schnelllernerklassen der Dathe-Schule</a><br><br>
 </div>
 <div class="teaser">
 <br>
-
+<hr> 
  <b>11.04.2016 |  Klasse 9 </b>
     <br> <br>
 	Im Enrichmentunterricht der Schnelllerner der 9. Klassen beschäftigen sich die 
@@ -35,6 +37,7 @@ Schnelllernerklassen der Dathe-Schule</a><br><br>
     <br>
 <br>
 <br>
+<hr>
 <b>20.04.2015 |  Klasse 9 </b><br>
 Hier der Artikel von 2015.
 <a href="http://digga.alex-berlin.de/unser-eigenes-kleines-chaos/http://digga.alex-berlin.de/unser-eigenes-kleines-chaos/">zum Artikel</a>

@@ -6,12 +6,7 @@
     <br>
 
 
-    <a href="./bewertung.php">Notenbewertung</a>
-    <br> <a href="./infopapiersek2.pdf">Infopapier:SekII</a>
-    <br>
-    <br>
-    <a href="./skikurs/skikurs14.php">Hier
-geht's zum Bericht des diesj&auml;hrigen Skikurses</a>
+    
     <br>
     <br>
 

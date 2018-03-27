@@ -1,4 +1,4 @@
-<div class="titel">- Eltern & Schule -</div>
+﻿<div class="titel">- Eltern & Schule -</div>
 Wichtige Informationen zum
 <a href="?sect=./schulleben/elternschule/bildungspaket/bildungspaket">Bildungs- und Teilhabepaket</a>
 <br>
@@ -15,13 +15,13 @@ weitere Informationen  <a href="./schulleben/elternschule/elterberatung.pdf" tar
 <br>
 <div class="titel-ressort">Aktuell:</div><br>
 <div class="artikel">
-Einladung zum Elternkurs 2017
-<a href="./schulleben/elternschule/elternkurs2017.pdf" target="_blank"> hier</a></div>
+Einladung zum Elternkurs 2018
+<a href="./schulleben/elternschule/elternkurs2018.pdf" target="_blank"> hier</a></div>
 <br>
 <br>
 <br>
-<hr class="line">
+<hr>
 <br>
-<div class="titel-ressort">Dathe im Dialog</div><br>
+Dathe im Dialog<br>
 <a href="?sect=./schulleben/elternschule/did/did">Dathe im Dialog ("DiD")</a>
 <br>

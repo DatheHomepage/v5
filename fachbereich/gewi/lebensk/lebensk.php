@@ -58,7 +58,9 @@ Sollte das mal nicht mehr der Fall sein, kann man sich schriftlich abmelden, mö
 <b>Was mir an Lebenskunde gefällt</b><br> 
 <a href="lebenskgef.php">Ergebnisse von Schülerbefragungen an dieser Schule 2014 (Kl. 5-9)</a>
 
-</div>
+</div><br>
+» Ansprechpartner für Lebenskunde:<br>
+    lebenskunde(at)dathe-gymnasium.cidsnet.de (Herr Diemling)
 
 
 

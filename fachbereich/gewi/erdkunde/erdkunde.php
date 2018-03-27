@@ -18,14 +18,25 @@ Amado: Os Marinheiros (1963) <br>
 
 
       
-      <hr color="#000000" size="1"> <br>
+      <hr> <br>
 
-
+ <b>>>AKTUELL<<</b><br>
+	 Im Geografieunterricht entstanden folgende Beiträge:<br>
+	 
+	 1) Lea Schönfeldt, jetzt Klasse 10a, zur Rolle des Meeres im globalen Klimahaushalt:<a href="https://youtu.be/4HfByB-VVBA"> hier</a>
+	  <br><br>
+	 2) Joshua Weißenfels, Kevin Cornelius, Lukas Veith, Frederico Winckler, jetzt alle Q1, zur Rolle des Meeres im globalen Klimahaushalt: <a href="https://www.youtube.com/watch?v=3obT0gdQ_Ls">hier</a><br>
+	
+	 3) Colin Lehmann, Lisa Nguyen, Emil Biedowicz, jetzt alle Q1, zur wirtschaftlichen Nutzung der Meere:
+     <a href="https://www.youtube.com/watch?v=8n6Bz1ThJvc">hier</a> <br> <br><br>
+ 
+                
+ <hr>
       <b>Themengebiete Erdkunde</b> <br>
 
 
       
-      <p>F&uuml;r die Lehrb&uuml;cher
+      F&uuml;r die Lehrb&uuml;cher
 ist im Fach Erdkunde gesorgt und dar&uuml;ber hinaus stehen
 Fachkr&auml;fte zur Verf&uuml;gung, die den ersten Satz Chicos
 (siehe Eingangstext) f&uuml;r unsere Sch&uuml;ler
@@ -34,11 +45,11 @@ sich. So besteht die M&ouml;glichkeit sich in der physischen
 Geographie Erkenntnisse aus der Biologie, Chemie und / oder
 Meteorologie zu Nutze zu machen und dadurch komplexe Sachverhalte wie
 Wetter, Vegetation undBoden anschaulich miteinander zu
-verkn&uuml;pfen.</p>
+verkn&uuml;pfen.
 
 
       
-      <p><br>
+      <br>
 
 
 &raquo;&nbsp;<a href="/fachbereich/gewi/erdkunde/schema.gif" target="_blank">Das
@@ -102,4 +113,8 @@ Geofaktorenmodell</a> (neues Fenster)<br>
             </td>
 
 
-      
+      </tr>
+	  </table>
+	  <br>
+	 » Ansprechpartner für den Fachbereich Erdkunde: <br>
+	 fb.geografie(at)dathe-gymnasium.cidsnet.de (Herr Fiedler)

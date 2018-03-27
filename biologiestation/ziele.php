@@ -1,21 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
 
-  <link type="text/css" href="../dathe-os.css" rel="stylesheet">
-  <title></title>
-
-
-</head>
-
-
-<body>
 	<div class="titel">- Biologiestation -</div>
 	<br>
 	<div class="teaser">
 	<b>Pädagogische Ziele</b><br><br>
 	<hr class="line">
-     <div class="teaser">    <p>"Die Sache der Tiere steht h&ouml;her
+     "Die Sache der Tiere steht h&ouml;her
 f&uuml;r mich als die<br>
 
 Sorge, mich l&auml;cherlich zu machen, sie ist unl&ouml;sbar<br>
@@ -24,8 +13,8 @@ verkn&uuml;pft mit der Sache der Menschen."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Emile
 Zola</i><br>
 
-            </p>
-            <p><a href="?sect=./biologiestation/biologiestation">I. Unsere Biologie-Station</a><br>
+           
+           <a href="?sect=./biologiestation/biologiestation">I. Unsere Biologie-Station</a><br>
 
             <a href="?sect=./biologiestation/praesentation">II. Pr&auml;sentation</a><br>
 
@@ -33,11 +22,11 @@ III. P&auml;dagogische Ziele<br>
 
             <a href="?sect=./biologiestation/aufgaben">IV. Aufgaben</a><br>
 
-            <a href="?sect=./biologiestation/vivarienschulen">V. Vivariumschulen in Deutschland</a> </p>
+            <a href="?sect=./biologiestation/vivarienschulen">V. Vivariumschulen in Deutschland</a> 
 <br><br>
-            <p><b>P&auml;dagogische Ziele der Biologie-Station</b></p>
+           <b>P&auml;dagogische Ziele der Biologie-Station</b><br>
 
-            <p>&bull; Kenntnisse &uuml;ber
+            &bull; Kenntnisse &uuml;ber
 naturwissenschaftliche Zusammenh&auml;nge<br>
 
 &bull; Begegnung mit Tieren und aufmerksame Betrachtung<br>
@@ -84,8 +73,8 @@ Futterbedarfes in g, kg; Finanzplanung <br>
 &bull; f&uuml;r alle F&auml;cher:
 &Uuml;ben des Umganges mit Fachliteratur, Verwenden des
 Computers (vorwiegend
-zu Hause)</p>
+zu Hause)
 
 
-</body>
-</html>
+
+</div>

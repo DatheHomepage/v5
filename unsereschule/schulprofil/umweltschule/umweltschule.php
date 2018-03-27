@@ -3,10 +3,11 @@
 ?>
 
 	<div class="titel">- Wir sind Umweltschule! -</div>
-	<div class="teaser">
+	<div class="shadow">
+	Informationen zu den Jahren:
 		<a href="?sect=./unsereschule/schulprofil/umweltschule/2016">2016</a>
 		<a href="?sect=./unsereschule/schulprofil/umweltschule/2014">2014</a>
-
+</div><div class="teaser">
 		<br>
 		<br><b> Aktuell:</b> <br>
 		Umweltprojekt der Klassen 8c, 8d erfolgreich! <br>

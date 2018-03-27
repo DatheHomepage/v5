@@ -7,33 +7,15 @@ Kulturwissenschaften.<br>
 
       <br>
 <div class="teaser">
-      <a href="?sect=./fachbereich/kuwi/deutsch/deutsch">Deutsch</a><br>
-
-      <br>
-
-      <a href="?sect=./fachbereich/kuwi/englisch/englisch">Englisch</a><br>
-
-      <br>
-
-      <a href="?sect=./fachbereich/kuwi/franz/franz">Franz&ouml;sisch</a><br>
-
-      <br>
-
-      <a href="?sect=./fachbereich/kuwi/spanisch/spanisch">Spanisch</a><br>
-
-      <br>
-
-         <a href="?sect=./fachbereich/kuwi/musik/musik">Musik</a><br>
-
-      <br>
-
-      <a href="?sect=./fachbereich/kuwi/kunst/kunst">Kunst</a><br>
-
-      <br>
-
-      <a href="?sect=./fachbereich/kuwi/ds/ds">Darstellendes Spiel (DS)</a><br>
+      <a class="linkbox" href="?sect=./fachbereich/kuwi/deutsch/deutsch">Deutsch</a>
+      <a class="linkbox" href="?sect=./fachbereich/kuwi/englisch/englisch">Englisch</a>
+      <a class="linkbox" href="?sect=./fachbereich/kuwi/franz/franz">Franz&ouml;sisch</a>
+      <a class="linkbox" href="?sect=./fachbereich/kuwi/spanisch/spanisch">Spanisch</a>
+      <a class="linkbox" href="?sect=./fachbereich/kuwi/musik/musik">Musik</a>
+      <a class="linkbox" href="?sect=./fachbereich/kuwi/kunst/kunst">Kunst</a>
+      <a class="linkbox" href="?sect=./fachbereich/kuwi/ds/ds">Darstellendes Spiel (DS)</a>
 </div>
       <br>
 	  <br>
 	  <br>
-	  &nbsp &nbsp &nbsp &nbsp &nbsp <img src= "./teaser/schulisch/wk11_01.jpg">  
+	  <img class="bild-mittig" src= "./teaser/schulisch/wk11_01.jpg">  

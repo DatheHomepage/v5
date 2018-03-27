@@ -1,11 +1,73 @@
 <div class="titel">- Herzlich willkommen -</div>
-Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstufe entwickelt und noch im Ausbau und wird natürlich ständig aktualisiert. Sie wird weiter geführt von der Sekundarstufe 1 und 2. Bei Fragen kontaktieren Sie uns bitte.
+Das ist unsere neue Homepage, sie ist von Schülern/innen der 7ten, 8ten und 10ten sowie einem Schüler der Oberstufe entwickelt und noch im Ausbau und wird natürlich ständig (wöchentlich) aktualisiert. Bei Fragen kontaktieren Sie uns bitte.
 <br>
 <br>
 &gt;&gt; Aktuelles...
 <div id="articles">
+    <div class="artikel schatten">
+        <img class="artikel-bild" alt="" src="./teaser/schule/schule12.jpg">
+        <div class="artikel-titel">19.03.2018 | Theaterstück "Feuer fangen"</div>
+Am Mittwoch den 21.03. um 19 Uhr führt die Q2 ihr selbst ausgedachtes Theaterstück "Feuer fangen" vor. Tickets kosten an der Abendkasse 2€. Um 16:00 und 16:30 finden die Theaterstücke der Q4 statt.
+</div>
+<hr>
+    <div id="articles">
+    <div class="artikel schatten">
+        <img class="artikel-bild" alt="" src="./teaser/schule/schule6.jpg">
+        <div class="artikel-titel">19.03.2018 | Projekttag gegen Rassismus</div>
+Am Mittwoch den 21.03. ist der internationale Antirassismustag. Dazu haben die PW-Kurse der Q2 verschiedene Projekte für die 10. Klassen vorbereitet. Diese werden sie am Mittwoch in kleineren Gruppen bearbeiten.
+</div>
+<hr>
+<div id="articles">
+    <div class="artikel schatten">
+        <img class="artikel-bild" alt="" src="./teaser/schule/schule15.jpg">
+        <div class="artikel-titel">15.03.2018 | Aktuelles / Austausche</div>
+Schüleraustausch nach Paris Klasse 8 : 06. - 13.03.18 <br>
+Schüleraustausch nach Narbonne Kl. 10 : 14.03. - 21.03.18 <br>
+        Gäste aus Poprad bei Dathe: 15.03. - 23.03.18 <br>
+</div>
+<hr>
+<div class="artikel schatten">
+        <img class="artikel-bild" alt="" src="./teaser/roseklein.jpg">
+        <div class="artikel-titel">19.02.2018 | Nachruf</div>
+Wir sind traurig über den Tod von<br>
+<b>Herrn Wolfgang Vogler </b><br>
+1935 - 2018.<br>
+Er war der Begründer unserer Biologie-Station.
+
+</div>
+<hr>
+
+<div class="artikel schatten">
+        <img class="artikel-bild" alt="" src="./teaser/ski18.jpg">
+        <div class="artikel-titel">23.01.2018 | Unsere Skifahrer sind zurück!</div>
+Vom 13.01. - 19.01.18 fand der diesjährige Skikurs der Oberstufenschüler statt. 
+<br> Genaueres  
+  <a href="http://dathe-gymnasium.de/gesamt.php?sect=./fachbereich/sport/skikurs/skikurs18">hier </a> 		
+</div>
+<hr>
+<div class="artikel schatten">
+        <img class="artikel-bild" alt="" src="./teaser/schule/schule7.jpg">
+        <div class="artikel-titel">19.01.2018 | Tag der offenen Tür </div>
+  
+Der Tag der offenen Tür am <b>19.01.2018 von 16 - 19 Uhr</b> bildete dabei den Höhepunkt unserer Werbung für das Dathe-Gymnasium. Für die begleitende Unterstützung durch die Elternschaft und vieler Schülerinnen und Schüler aus allen Jahrgangsstufen, die zum Gelingen dieser Veranstaltung beigetragen haben, sind wir dankbar.
+<br>
+
+    </div>
+
+<hr>
+<div class="artikel schatten">
+        <img class="artikel-bild" alt="" src="./schulleben/schuelerschule/silberaeffchenpatenschaften/bilder/patsilb01.jpg">
+        <div class="artikel-titel">12.12.2017 | Silberäffchenpatenschaft</div>
+  Die Patenschaft unserer Schule mit Silvio und Silvana wurde am 6.12.17 erneut verlängert. Genaueres  
+  <a href="./schulleben/schuelerschule/silberaeffchenpatenschaften/patenschaftSilberaeffchen2017.pdf">hier </a> 
+<br>
+
+    </div>
+<hr>
+
+    <!-- [kommt bald wieder ]
     <hr>
-    <div class="artikel artikel-schatten">
+    <div class="artikel schatten">
         <a href="?sect=./fachbereich/gewi/ubb/ubb">
             <img class="artikel-bild" alt="" src="./teaser/ubbteaser.jpg">
         </a>
@@ -16,9 +78,10 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
         Programm absolviert. <a href="?sect=./fachbereich/gewi/ubb/ubb2017_2">Mehr Infos hier</a>.
         <br>
     </div>
-
+-->
+<!-- [kommt bald wieder!]
     <hr>
-    <div class="artikel artikel-schatten">
+    <div class="artikel schatten">
         <a href="?sect=./unsereschule/schulprofil/umweltschule/umweltschule">
             <img class="artikel-bild" alt="" src="./static/bilder/logos/umweltschule.png">
         </a>
@@ -26,104 +89,17 @@ Das ist unsere neue Homepage, sie ist von Schülern/innen der 9. und der Oberstu
         In der Woche vom 03.07. - 07.07. finden unsere diesjährigen Umweltaktionstage statt,
         mit vielen Projekten in den einzelnen Klassen.<br>
         Das Thema in diesem Jahr ist die bedrohte Artenvielfalt.
-    </div>
+
+    </div>-->
 
 
-    <hr>
-    <div class="artikel artikel-schatten">
-        <img class="artikel-bild" alt="" src="/static/bilder/bilder/img_6831.jpg">
-        <div class="artikel-titel">23.06.2017 | Klima-Schulpartnerschaft mit Nicaragua</div>
-        Im Rahmen der Umweltwoche findet am <b>Mittwoch den 5. Juli</b> eine Veranstaltung
-        zum Thema Klima-Schulpartnerschaft mit Nicaragua statt. Wir, die Gruppe von Lehrer/inne/n
-        und Schülerinnen, die bisher aktiv beteiligt waren, wollen über unsere Anbahnungsreise nach
-        San Rafael del Sur informieren und in einen gemeinsamen Austausch über die Möglichkeiten und
-        Chancen einer Schulpartnerschaft treten. <a href="?sect=/fachbereich/kuwi/spanisch/nicaragua">Mehr Infos
-            hier</a>.
-    </div>
-
-    <hr>
-    <div class="artikel artikel-schatten">
-        <img class="artikel-bild" alt="" src="/teaser/hoffest/hoffest1.jpg">
-        <div class="artikel-titel">13.03.2017 | Jubiläum...<br>Schulsozialarbeit am Dathe</div>
-        Ein Jahr ist schon wieder vorbei. Das gilt es zu feiern. Alle Beteiligten sind dazu herzlich eingeladen.
-        <a href="./einladung.pdf" target="_blank"> Genaueres hier. </a>
-        <br>
-        <br>
-        <b>Jugend Forscht 2017</b>
-        <br> Am 22.02.2017 konnten der Mittelstufenchor des Dathe-Gymnasiums und Elisabeth Horn, begleitet von einer
-        Schulband, mit großem Erfolg die feierliche Preisverleihung von "Jugend forscht" musikalisch umrahmen.
-    </div>
-
-    <hr>
-    <div class="artikel artikel-schatten">
-        <img class="artikel-bild" alt="" src="./teaser/schule/schule4.jpg">
-        <div class="artikel-titel">27.02.2017 | Aktuelles..</div>
-        Unser neues Klimaprojekt der 8. Klassen finden Sie <a
-                href="?sect=/schulleben/projekte/klassenprojekte/klimaschutz/klimaschutz">hier</a>.
-        <br>
-        <br>Der neue Terminplan für das 2. Halbjahr ist <a href="./organisation/terminplan/terminplan17_5.pdf"
-                                                           target="_blank"> online. </a>
-        <br>
-
-        <br>Unser aktuelles Ganztagsangebot, unsere Arbeitsgemeinschaften finden Sie <a
-                href="?sect=./schulleben/ganztag/angebote">hier.</a>
-        <br> Fachbereich Spanisch:
-        <br>
-        <a href="?sect=./fachbereich/kuwi/spanisch/spanisch">Kontakt mit neuer Partnerschule in Nicaragua</a>
-        <br>
-    </div>
-    <hr>
 
 
-    <div class="artikel artikel-schatten">
-        <img class="artikel-bild" alt="" src="./teaser/sommerkonzert.png">
-        <div class="artikel-titel">09.01.2017 | Letztes Weihnachtskonzert</div>
-        Wie jedes Jahr fand vor Weihnachten ein Schulkonzert statt, bei dem Klassen, Arbeitsgemeinschaften und
-        musikalisch aktive Schülerinnen und Schüler auftraten. Das Spektrum reichte vom Trompete spielenden
-        Sechstklässler über tanzende Mittelstufenschülerinnen bis zum Oberstufenchor. Dabei kam auch das neue, vom
-        Förderverein gestiftete Drumset zum Einsatz.
-        <br> Der Fachbereich Musik bedankt sich an dieser Stelle recht herzlich!
-    </div>
-
-    <hr>
-
-    <div class="artikel artikel-schatten">
-        <a href="?sect=./unsereschule/sozialarbeit/sozialarbeit">
-            <img class="artikel-bild" alt="" src="./teaser/schule/schule7.jpg">
-        </a>
-        <div class="artikel-titel">01.11.2016 | Schulsozialarbeit am Dathe-Gymnasium</div>
-        In Kooperation mit dem Träger Technische Jugendfreizeit-&amp; Bildungsgesellschaft arbeitet seit dem 15.02.16
-        die Schulsozialarbeiterin Frau Ziller am Dathe-Gymnasium. Seit dem 01.11.16 wird sie von der Freiwilligen (FSJ)
-        Robina Gläßer unterstützt.
-        <a href="?sect=./unsereschule/sozialarbeit/sozialarbeit"> Genaueres hier.</a>
-        <br>Per Mail sind sie unter <b>sozial@dathe-gymnasium.cidsnet.de erreichbar. </b>
-    </div>
-
-    <hr>
-
-    <div class="artikel artikel-schatten">
-        <a href="http://www.bwb.de/content/language1/html/18213.php">
-            <img class="artikel-bild" alt="" src="./teaser/schule/schule3.jpg">
-        </a>
-        <div class="artikel-titel">19.09.2016 | Gurgel-Contest</div>
-        Unser Jäzzchor (ein Projekt von Frau Lüdde) hat bei den Berliner Wasserbetriebe an einem Gurgel-Contest
-        teilgenommen.
-        <br>Hören und ... <a href="http://www.bwb.de/content/language1/html/18213.php">sehen Sie selbst</a>!
-        <br>
-        <b>Als Gewinn steht nun Allen ein Wasserspender</b> (Eingang zum Sekretariat) zur Verfügung.
-    </div>
-    <hr>
 
 
-    <div class="artikel artikel-schatten">
-        <img class="artikel-bild" alt="" src="./teaser/schule/schule1.jpg">
-        <div class="artikel-titel">01.07.2016 | Balg-Mächler-Schülerpreis 2016</div>
-        Die Abiturienten Luise L. und Felix N. erhalten für ihre Seminararbeiten im Bereich der Besonderen
-        Lernleistung Preise der ILSE BALG STIFTUNG. Die Preisverleihung findet am 06.07. im Märkischen Museum statt.
-        Herzlichen Glückwunsch!
-    </div>
-    <hr>
-    <hr>
+
+
+
 
     <br>
     <br>

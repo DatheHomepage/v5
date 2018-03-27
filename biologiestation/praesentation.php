@@ -75,7 +75,7 @@ Fax: 030 - 293 60 64 15<br>
 
       <br>
 
-E-Mail: sl@dathe-oberschule.cidsnet.de<br>
+E-Mail: sek@dathe-gymnasium.cidsnet.de<br>
 
       </p>
 

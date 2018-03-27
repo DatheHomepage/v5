@@ -1,5 +1,5 @@
 <?php
-$bilder = "naturschutzpreis2013/";
+$bilder = "./naturschutzpreis2013/";
 ?>
 <div class="titel">- Berliner Naturschutzpreis-2013 -</div>
 Das Dathe-Gymnasium wurde am 05.09.2013 besonders geehrt, denn es hat den Berliner Naturschutzpreis 2013 überreicht bekommen. Im folgenden wird die Urkunde zitiert:
@@ -17,5 +17,6 @@ besondere Maßstäbe für das schulische Lernen setzt, die ein wirksames Konzept
 Schulprogramm, ihrer Philosophie auch kommende Generationen zu einem nachhaltigen und solidarischen Lebensstil ermutigt.
 <br>
 <br>
-<a href="http://www.stiftung-naturschutz.de/die-stiftung/naturschutzpreis/" target="_blanc">Hier noch ein Link dazu!</a>
+<a href="http://www.stiftung-naturschutz.de/die-stiftung/naturschutzpreis/" target="_blank">
+Hier noch ein Link zum Naturschutzpreis 2018</a>
 <div id="galerie"></div>

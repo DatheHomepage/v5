@@ -40,35 +40,14 @@
 	    
 	 
 
-      <a href="?sect=./fachbereich/gewi/erdkunde/erdkunde">Erdkunde</a><br>
-
-      <br>
-
-      <a href="?sect=./fachbereich/gewi/geschichte/geschichte">Geschichte</a><br>
-
-      <br>
-
-      <a href="?sect=./fachbereich/gewi/pw/pw">Politikwissenschaften
-(PW)</a><br>
-
-      <br>
-
-      <a href="?sect=./fachbereich/gewi/religion/religion">Religion</a><br>
-	  
-	   <br>
-	  
-	  <a href="?sect=./fachbereich/gewi/lebensk/lebensk">Lebenskunde</a><br>
-
-      <br>
-	  
-	  <a href="?sect=./fachbereich/gewi/ubb/ubb">Umwelt baut Brücken</a><br>
-
-      <br>
-
-      <a href="?sect=./fachbereich/gewi/ethik/ethik">Ethik</a><br><hr><br>
-	   <a href="?sect=./fachbereich/gewi/projekt">Projekt Datenschutz/Wikipedia</a><br><br>
-	  <hr>
-	  <br>
+      <a class="linkbox" href="?sect=./fachbereich/gewi/erdkunde/erdkunde">Erdkunde</a>
+      <a class="linkbox" class="linkbox"ref="?sect=./fachbereich/gewi/geschichte/geschichte">Geschichte</a>
+      <a class="linkbox" href="?sect=./fachbereich/gewi/pw/pw">Politikwissenschaften (PW)</a>
+      <a class="linkbox" href="?sect=./fachbereich/gewi/religion/religion">Religion</a>
+      <a class="linkbox" href="?sect=./fachbereich/gewi/lebensk/lebensk">Lebenskunde</a>
+      <a class="linkbox" href="?sect=./fachbereich/gewi/ubb/ubb">Umwelt baut Brücken</a>
+      <a class="linkbox" href="?sect=./fachbereich/gewi/ethik/ethik">Ethik</a>
+	  <a class="linkbox" href="?sect=./fachbereich/gewi/projekt">Projekt Datenschutz/Wikipedia</a>
      <img class="bild-mittig" src= "./teaser/schulisch/daenenzuBesuch.jpg">
 	
 </div>

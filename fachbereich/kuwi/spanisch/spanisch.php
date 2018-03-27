@@ -1,6 +1,21 @@
 ﻿<div class="titel">- Spanisch -</div><br><br>
 <div class="artikel">
-    <div class="artikel-titel"> 11.07.2016 | Kontakt mit neuer Partnerschule in Nicaragua</div>
+    <div class="artikel-titel">20.10.2017 | Nicaragua-Austausch</div>
+    Vom 09.10. bis zum 20.10.2017 waren drei nicaraguanische Schüler*innen sowie drei Lehrer*innen aus San Rafael del Sur
+    bei uns zu Gast. Ziel des Projekts ist ein sprachlicher und kultureller Austausch nach Lateinamerika, wobei insbesondere
+    die Themen Nachhaltigkeit und Klimaschutz im Vordergrund stehen. Seit zwei Jahren gibt es im Rahmen der 
+    Spanisch-Wahlpflicht-Kurse einen Blog, über den Kontakt gehalten wird. Die Idee einer Vertiefung des Austausches und 
+    der Wunsch nach gegenseitigen Besuchen kam auf und wurde sogleich mit viel Planungs- und Organisationsarbeit angegangen.
+    In Zusammenarbeit mit dem Verein zur Förderung der Städtepartnerschaft zwischen Friedrichshain-Kreuzberg und San Rafael
+    del Sur wurde ein Antrag für eine Finanzierung durch das entwicklungspolitische Schulaustauschprogramm ENSA gestellt 
+    und der Austausch konnte losgehen. Im April sind je drei Schüler*innen und Lehrer*innen unserer Schule nach Nicaragua
+    gereist und nun fand der Gegenbesuch statt. Das Projekt war im Hinblick auf eine erste Erarbeitung des Konzepts sehr
+    erfolgreich. Wir werden in Zukunft unter dem Titel „Gemeinsam für die Umwelt – Müll reduzieren und wiederverwerten“ mit
+    unseren Freunden in Nicaragua zusammenarbeiten.<br><br> 
+    Wir suchen weiterhin engagierte Schüler*innen und Lehrer*innen, die sich beteiligen wollen.<br>
+    Nicaragua-AG
+    <hr>
+    <br><br><div class="artikel-titel"> 11.07.2016 | Kontakt mit neuer Partnerschule in Nicaragua</div>
     Zu Beginn des zweiten Schulhalbjahres sind die SchülerInnen des Wahlpflichtkurses Spanisch Klasse 9
     mit einer SchülerInnengruppe gleichen Alters des Colegio Público José Domingo Espinoza Parrales in San
     Rafael del Sur in Kontakt getreten. Unterstützt werden sie dabei von Frau Doil und Frau Schmidt.<br>
@@ -10,6 +25,9 @@
     Sie erfuhren Interessantes über ihre
     persönlichen Essgewohnheiten und konnten feststellen, wo es Unterschiede und Gemeinsamkeiten gibt.
     Genaueres gibt es dazu <a href="/fachbereich/kuwi/spanisch/partnerNicaragua_170310.pdf" target="_blank">hier</a>.
+    
+    
+    
 
 </div>
 <br>
@@ -19,9 +37,9 @@ Seit dem Schuljahr 2011-2012 kann Spanisch von den neuen 7. Klassen als
 dritte Fremdsprache wird im Rahmen des Wahlpflichtunterrichts ab Klasse
 8 (f&uuml;r die Schnelllernerklassen ab Klasse 7) angeboten.
 <br>
-<img class="bild-s" alt="Hier währe ein Bild..." src="/fachbereich/kuwi/spanisch/spanisch1.jpg">
-<img class="bild-s" alt="Hier währe ein Bild..." src="/fachbereich/kuwi/spanisch/spanisch2.jpg">
-<img class="bild-s" alt="Hier währe ein Bild..." src="/fachbereich/kuwi/spanisch/spanien.jpg">
+<img class="bild-s" alt="Hier wäre ein Bild..." src="/fachbereich/kuwi/spanisch/spanisch1.jpg">
+<img class="bild-s" alt="Hier wäre ein Bild..." src="/fachbereich/kuwi/spanisch/spanisch2.jpg">
+<img class="bild-s" alt="Hier wäre ein Bild..." src="/fachbereich/kuwi/spanisch/spanien.jpg">
 
 <br><br>
 <i>"Hablas espanol tambien?" oder auch</i><br> <i>"Kommt das hier jemandem <b>Spanisch</b>

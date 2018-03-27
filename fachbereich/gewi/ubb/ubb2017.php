@@ -1,11 +1,12 @@
 <div class="titel">UbB-2017-</div>
-<br>
 <div class="teaser">
+<br>
+
     <img src="./fachbereich/gewi/ubb/Bilder/banner.jpg">
     <br>
-    <hr class="line"> Hier erscheint von den beteiligten Schüler/innen ein Bericht:
+    <hr> Hier erscheint von den beteiligten Schüler/innen ein Bericht:
     <br>
-</div>
+
 
 
 <div class="subtitel">&gt;&gt; Dienstag &lt;&lt;</div>
@@ -15,10 +16,9 @@
 <img class="center" src="./fachbereich/gewi/ubb/Bilder/dienstag2klein.jpg">
 <br>
 
-<br>
-<br>
 
-<hr class="line">
+
+<hr>
 
 <div class="subtitel">&gt;&gt; Mittwoch &lt;&lt;</div>
 <br>
@@ -28,10 +28,9 @@
 
 <img class="center" src="./fachbereich/gewi/ubb/Bilder/mittwoch1klein.jpg">
 <br>
-<br>
-<br>
 
-<hr class="line">
+
+<hr>
 
 <div class="subtitel">&gt;&gt; Donnerstag &lt;&lt;</div>
 <br>
@@ -40,12 +39,11 @@
 <br> Am folgenden Nachmittag wurde die Gedenkstätte Berliner Mauer an der Bernauer Straße besucht. Die zwei informativen Kurzfilme brachten allen das Leben im damaligen geteilten Berlin näher. Über die Geschichte, das Bestehen und den Fall der Mauer erfuhren die Schülerinnen und Schüler beim freien Erkunden des ehemaligen Grenzgeländes Weiteres.
 <br> Zum Abendessen trafen wir uns in einem indischen Restaurant um gemeinsame Erlebnisse auszutauschen und vor der Rückfahrt der Slowakinnen und Slowaken am nächsten Morgen, abschließend Zeit miteinander zu verbringen.
 
-<img class="center" src="./fachbereich/gewi/ubb/Bilder/donnerstag1klein.jpg">
-<br>
-<br>
+<img src="./fachbereich/gewi/ubb/Bilder/donnerstag1klein.jpg">
 <br>
 
-<hr class="line">
+
+<hr>
 
 <div class="subtitel">&gt;&gt; Freitag &lt;&lt;</div>
 <br>
@@ -56,11 +54,12 @@
 <br>
 <br>
 
-<hr class="line">
+<hr>
 <div class="subtitel">&gt;&gt; Montag &lt;&lt;</div>
 <br> Nachdem wir am Wochenende Berlin mit unseren Austauschschülern auf eigene Faust erkundet haben, ging es am Montag wieder in der Gruppe weiter. Erster Stopp war die Reichstagskuppel. Oben angekommen wurden viele Fotos geschossen und die Größe, Vielfältigkeit und Schönheit von Berlin bewundert. Nach einem kurzen Fußweg zur „Topografie des Terrors“ hatten wir eine sehr aufschlussreiche Führung durch die Ausstellung, die durchaus zum Nachdenken anregte. Um den Tag dann passend abzuschließen durften wir im Yorck-Kino in einer Privatvorstellung beim Film „Tschick“, der auch bei unseren Gästen sehr gut ankam, noch einmal herzlich lachen.
 <br>
 <br>
 
 
-<hr class="line">
+<hr>
+</div>

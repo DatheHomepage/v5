@@ -1,26 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
+<div class="titel">- Schulhomepage -</div><br>
 
-  <link type="text/css" href="../../../dathe-os.css" rel="stylesheet">
-
-  <title></title>
-</head>
-
-<body style="background-color: transparent;" leftmargin="0" topmargin="0" alink="#000000" link="#000000" vlink="#000000">
-	<div class="titel">- Schulhomepage -</div><br>
-
-      
-      <div class="teaser"><br>
-
-      <br>
-      
-      <p class="titel">&raquo; Die Projektgruppe Internet &laquo;</p>
-
-<!-- <a href="../../../contact/index.php?id=s081299747526468&amp;n=Homepage%20AG&amp;e=p" ><b>Homepage AG Kontakt</b></a><br><br> -->
-  <br>
-			<div class="teaser">    
- <b>Aktuell: Wir brauchen Mitstreiter/innen!   </b></div> 
+    
+ <b>Aktuell: Wir brauchen Mitstreiter/innen!   </b>
 	<hr class="line">
 	<p class="intro"> Hallo!<br>
 
@@ -29,22 +10,20 @@ Webseite macht.<br>
 
 An so einer Webseite gibt es viel zu tun.<br>
 
-Diese wird jeden Montag in der 9. Stunde von Ben, Torben & Alexander (Kl. 9)und
+Diese wird in der jeden Montag im 4. Block von Ben, Torben & Max (Kl. 10) und mittwochs in der B-Woche in der 7. Stunde aktualisiert.
 <br>
-jeden Dienstag im 3. Block von Oisín, und bei Bedarf noch in der 9. Stunde,
-sowie Frau Herrmann aktualisiert.<br>
 Bei einer ganzen Schule ist das mitunter richtig viel Arbeit...<br>
-Unterstützung bekommen wir in diesem Jahr schon ab und zu von Korbinian und Michael (Kl. 7)<br><br>
+Unterstützung bekommen wir in diesem Jahr schon ab und zu von Korbinian (Kl. 8) sowie Simon (Kl. 7).<br><br>
 Daher, wer Lust hat HTML zu lernen und die Homepage von unserer Schule
 mitgestalten will, <br>
 
-der kann immer  Montag in der 9. Stunde in  <br>
+der kann immer zu den genannten AG-Zeiten in  <br>
 den Raum&nbsp;514 kommen.<br>
 Wir würden uns über Unterstützung sehr freuen.<br><br>
 
 Mit freundlichen Grüßen<br><br>
 
-Homepage AG (Oisín, Ben und Torben)</p>
+Homepage AG </p>
 
 
       <p class="intro"><br>
@@ -71,11 +50,4 @@ Arbeitsumgebung</a><br>
  &bull; Robert Henke<br>
  &bull; Sebastian Schulze<br>
  &bull; Sven Erik Jeroschewski<br>
- 
-<br>
-
-
-      </div>
-
-</body>
-</html>
+<br><img class="bild-m" src="./schulleben/projekte/schulhomepage/bilder/homepage02.jpg">

@@ -56,8 +56,8 @@ $bilder="/bilder";
 	<br>
 	<br> Ansprechpartner für den Fachbereich Ethik:
 	<br> Fr. Thamke
-	<br> ethik@dathe-gymnasium.cidsnet.de
+	<br> ethik(at)dathe-gymnasium.cidsnet.de
 	<br>
 	<br>
-	<div id="galerie"></div>
+    <br>
 </div>

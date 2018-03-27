@@ -1,8 +1,8 @@
 /* Freienticker von Oisin Smith */
 $("document").ready(function(){
-    var ferien = "Sommerferien";
+    var ferien = "Osterferien";
     var abgelaufen_text = "Ferien!";
-    var datum = new Date("7/19/2017"); // Ami format MM/TT/JJJJ
+    var datum = new Date("03/23/2018 13:20"); // Ami format MM/TT/JJJJ HH:MM
 
 
     var ticker = $("#ticker");

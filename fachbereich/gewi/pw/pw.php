@@ -66,6 +66,9 @@
 	  
 	  </div>
 
+» Ansprechpartner für den Fachbereich Gesellschaftswissenschaften und Politikwissenschaften:
+    fb.gewi(at)dathe-gymnasium.cidsnet.de (Frau Blazy)<br>
+
 
 
 </body>

@@ -10,25 +10,24 @@
  * Grau (Hintergrund) #EFEFEF
  */
 
+
 /*allgemein Festlegungen  */
 
 * {
     font-family: Verdana, sans-serif;
     box-sizing: border-box;
 }
-
-html, body {
+html,
+body {
     margin: 0;
 }
-
 #wrapper {
     display: block;
     margin: 0 auto;
-    padding: 0 25px 10px 25px;
+    padding: 0 20px 10px 20px;
     box-shadow: 0 0 20px 2px;
     background-color: #EFEFEF;
 }
-
 #header {
     display: block;
     margin: 0 0 5px 0;
@@ -36,38 +35,33 @@ html, body {
     width: 100%;
     height: 100%;
 }
-
 #header img {
     width: 100%;
 }
-
 #flex-container {
     display: flex;
     margin-top: 10px;
 }
-
 #inhalt {
     /* Positionierung */
     flex: 5;
     /* Box Model */
     margin: 0;
-    padding: 10px 5px 0 5px;
+    padding-top: 5px;
     /* Visuelles */
     font-size: 13px;
     text-align: justify;
     line-height: 18px;
     transition: 0.2s linear;
 }
-
 #sidebar {
     flex: 1;
     padding: 0;
-    margin: 0 0 0 15px;
+    margin-left: 20px;
     text-align: center;
     font-size: 10px;
     line-height: normal;
 }
-
 .blog-img {
     margin-top: 5px;
     margin-right: 5px;
@@ -76,63 +70,46 @@ html, body {
     height: 75px;
     width: 100px;
 }
-
 #sidebar > div {
     padding: 5px 3px;
-}
-
-.shadow {
-    /* Wofür? */
-    width: 50%;
-    display: inline-block;
-    overflow: visible;
-    padding: 10px 10px;
-    margin: 10px 10px;
-    box-shadow: 5px 5px 10px 0 rgba(117, 117, 117, 1);
 }
 
 #footer {
     bottom: 0;
 }
 
-
-
-
 /* CSS von Oisin */
-
-
 
 .ol {
     list-style: decimal inside;
 }
-
 #senden {
     width: 100%;
     margin-top: 10px;
 }
-
 .gruen {
     border: 2px solid green;
     padding: 10px;
     margin-bottom: 5px;
 }
-
 .gruen div {
     float: right;
     width: 70%;
     text-align: left;
 }
-
 .gruen img {
     float: left;
     padding-right: 6px;
 }
 
-
-
 /*************************************************************/
+
+
 /*              Media Queries                                */
+
+
 /*************************************************************/
+
 
 /* Auflösungen
  *
@@ -150,67 +127,68 @@ html, body {
  *   Keine Bilder in Artikel
  */
 
-@media (min-width: 1100px) { /* Normal */
-    #wrapper {
-        width: 85%;
-    }
+#navbar {
+    flex: 1;
+    margin-right: 20px;
+    text-align: left;
+    font-size: 11px;
 }
 
-@media (max-width: 1100px) { /* Klein */
+@media (min-width: 1100px) {
+    /* Normal */
+    #wrapper {
+        width: 90%;
+    }
+}
+@media (max-width: 1100px) {
+    /* Klein */
     #wrapper {
         box-shadow: none;
         overflow: hidden;
     }
-
     #navbar {
         background-color: #95C11F;
         opacity: 0.95;
         position: absolute;
         top: 0;
-        width: 0;
-        left: 0;
+        bottom: 0;
+        left: -25%;
+        width: 25%;
+        padding: 25px 15px;
         overflow: hidden;
-        transition: width 350ms linear;
+        transition: left 350ms linear;
     }
-
     .navbar-link {
         display: block !important;
     }
-
     #navbar.active {
-        width: 25%;
-        padding: 25px 15px;
+        left: 0;
+        
     }
-
     .navbar-link.active {
         left: 26%;
     }
-
-
 }
-
-@media (max-width: 700px) { /* Mobil */
+@media (max-width: 700px) {
+    /* Mobil */
     #sidebar {
         display: none;
     }
-
     .flex-container {
         display: block;
     }
-
-    #navbar.active {
+    #navbar {
         width: 50%;
-        padding: 25px 15px;
+        left: -50%;
+        padding: 10px 10px !important;
     }
-
+    
     .navbar-link.active {
         left: 51%;
     }
-
     .artikel {
         text-align: left;
     }
-
     .artikel-bild {
         display: none;
     }
@@ -228,25 +206,21 @@ html, body {
     align-items: center;
     background-color: rgba(0, 0, 0, 0.5);
 }
-
 #modal-close {
     top: 0;
     right: 5px;
     position: absolute;
     cursor: pointer;
 }
-
 #modal-head {
     float: right;
     display: inline;
 }
-
 #modal-body {
     width: 100%;
     display: block;
     position: relative;
 }
-
 #modal-content {
     display: inline;
     padding: 10px;

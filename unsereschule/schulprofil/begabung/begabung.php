@@ -1,5 +1,5 @@
 ﻿
-	<div class="titel">- Begabungsförderung -</div>
+	<div class="titel">- Begabungsförderung an der Dathe - Schule -</div>
 	<br>
     <div class="teaser">
 		
@@ -7,29 +7,28 @@
 		
 		<br>
 		<b>Sommerakademie 2017</b><br>
-		<div class="shadow"><a href="./unsereschule/schulprofil/begabung/sommerakademie_2017.pdf" target="_blank">&raquo; Hier gibt es Informationen und die Anmeldung für Sommerakademie 2017</a></div><br>    
+		<div class="article"><a href="./unsereschule/schulprofil/begabung/sommerakademie_2017.pdf" target="_blank">&raquo; Hier gibt es Informationen 
+		und die Anmeldung für Sommerakademie 2017</a></div><br>    
 		<br>
     
 	<hr class="line">  
 	<br>
-		
-		<b>September 2016:</b><br>
-		<a href="./unsereschule/schulprofil/begabung/forscherAG2016_17.pdf" target="_blank">&raquo; Hier gibt es Informationen zur neuen Forscher-AG</a><br>
-		<a href="./unsereschule/schulprofil/begabung/anmeldforscherAG2016_17.pdf" target="_blank">&raquo; Hier geht es zum Anmeldeformular der neuen Forscher-AG</a><br>
+		In diesem Jahr findet an unserer Schule auch eine AG zur Begabtenförderung für Schüler/innen der 4. Klasse statt. 
+		Außerdem haben Grundschulen die Möglichkeit die Biologiestation zu besuchen.<br>
+		<a href="./unsereschule/schulprofil/begabung/briefanKollegen.pdf" target="_blank">&raquo; Genaueres dazu hier: </a> 
 		<br>
-</div>
-		<hr class="line">
-	<div class="teaser">
-		Hier eine übersicht über die von uns (Dathe-Gymnasium)
-		angebotenen Kurse zur
-		Begabungsförderung von Schülern.<br>
-		<br>
-		In
-		diesem Jahr findet an unserer Schule auch eine AG zur
-		Begabtenförderung für Schüler der 4. Klasse
-		statt. Außerdem haben Grundschulen die Möglichkeit
-		die Biologiestation zu besuchen.<br><br>
+<br>
+<hr class="line">  
+<br><div class="article">
+		<b>Für das neue Schuljahr 2017/18: (Juli 2017)</b><br>
+		<a href="./unsereschule/schulprofil/begabung/forscherAG2017_18.pdf" target="_blank">&raquo; Hier gibt es Informationen zur neuen Forscher-AG</a><br>
+		<a href="./unsereschule/schulprofil/begabung/anmeldforscherAG2017_18.pdf" target="_blank">&raquo; Hier geht es zum Anmeldeformular der neuen Forscher-AG</a><br>
+		</div><br>
 
+		<hr class="line">
+	
+		
+		
 		
     
 		

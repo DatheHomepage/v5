@@ -16,9 +16,9 @@ e.V. <br>
 Die ehrenamtlichen Mitglieder sind aktive Datenschutzbeauftragte.
 
 <br>
-<br>
+
 <hr>
-<br><br>
+
 
 
 1. Informationstechnischer Grundkurs Klasse 6 / Klasse 7<br>
@@ -64,11 +64,11 @@ Die ehrenamtlichen Mitglieder sind aktive Datenschutzbeauftragte.
 
     <li> Herr Klinkhardt(Fachleiter/Administrator)</li>
 
-    <li> Herr Seifert (ITG, WPU 9)</li>
+    <li> Herr Horn (ITG, WPU Informatik (Kl.9))</li>
 
     <li> Frau Herrmann (ITG, WPU, Informatik)</li>
 
-
+    <li> Herr Willemeit (ITG, WPU Informatik (Kl.9))</li>
 </ul>
 
 

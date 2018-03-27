@@ -1,12 +1,17 @@
-<?php
-$bilder = "bilder/";
+﻿<?php
+$bilder="bilder/";
 ?>
-<div class="titel">-Umwelt baut Br&uuml;cken -</div>
+      
+      <div class="titel">-Umwelt baut Br&uuml;cken -</div>
+	  <br>
+
+      <div class="teaser"><br>
+
 Am 23. August 2011 haben wir,
 der Projektkurs &bdquo;Umwelt baut
 Br&uuml;cken&ldquo;, den Workshop &bdquo;Junge Reporter
 f&uuml;r die Umwelt&ldquo;&nbsp;
-besucht.<br>
+      besucht.<br>
 
 Geleitet wurde der Workshop von
 einer Mitarbeiterin der Jungen Presse Berlin, Josefa Kny und von
@@ -16,7 +21,7 @@ W&auml;hrend des Workshops
 wurden wichtige Fragen zum Schreiben
 eines Artikels gekl&auml;rt, wie zum Beispiel:<br>
 
-<br>
+      <br>
 
 Welche Quellen sind verl&auml;sslich?<br>
 
@@ -74,10 +79,14 @@ und sprechen &uuml;ber das Layout. Wir freuen uns schon sehr
 darauf, denn der erste
 Workshop hat uns viel Spa&szlig; gemacht.<br>
 <br>
-<a href="/schulleben/ubb/slowakei7/Uebersicht.pdf" target="_blank">Hier finden Sie einen Bericht über unseren
-    Besuch in der Slowakei</a>
+<a href="./schulleben/ubb/slowakei7/Uebersicht.pdf" target = "_blank">Hier finden Sie einen Bericht über unseren Besuch in der Slowakei</a>
 
-<br>
+      <br>
 
-<br>
-<div id="galerie"></div>
+      <br>
+	  <div id="galerie"></div>
+ <div align="center" style="position:relative; top:0px; left:0px; margin-left: auto; margin-right: auto;" id="bild_gross"></div>
+ 
+</div>
+	  
+	  

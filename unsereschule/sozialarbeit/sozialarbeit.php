@@ -1,21 +1,33 @@
 <?php $bilder = "/bilder"; ?>
 <div class="titel">- Schulsozialarbeit am Dathe-Gymnasium -</div>
 <div class="artikel">
-	<img src="/unsereschule/sozialarbeit/hoffest.jpg" class="artikel-bild">
+	<img src="./teaser/image027.jpg" class="artikel-bild">
+   Die Sozialarbeiterinnen Marielle Ziller und Mathilde Chevallier sind im Januar 2018 von der Schule gegangen.
+    Ihre Nachfolgerin ist Maxi Engling. Am Donnerstag den 1.2.18 wird sie durch eine weitere ergänzt.
+</div>
+<div class="artikel">
+	<img src="./unsereschule/sozialarbeit/hoffest.jpg" class="artikel-bild">
     In Kooperation mit dem Träger Technische Jugendfreizeit- & Bildungsgesellschaft (<a href="http://www.tjfbg.de/" target="_blank">tjfbg</a>) wurde die Schulsozialarbeit zum 15.02.2016, am Dathe-Gymnasium ins Leben gerufen. Frau Ziller ist seitdem dort als Schulsozialarbeiterin tätig und Frau Chevallier am 4.01.2017 dazu eingestiegen. Per Mail sind sie unter sozial@dathe-gymnasium.cidsnet.de erreichbar.
 </div>
-<br><br>
 <hr class="line">
-<br>
 <div class="artikel">
-<img class="blog-img" alt="" src="/teaser/schule/schule7.jpg"><b>21.06.17 | Schulsozialarbeit Handy und Mediennutzung</b><br>
-Die Schulsozialarbeiterinnen laden ein, genauere Infos dazu <a href="/unsereschule/sozialarbeit/einladungzurveranstaltung.pdf" target="_blank">hier</a>.
+        <img class="artikel-bild" alt="" src="./teaser/schule/schule2.jpg">
+        <div class="artikel-titel">19.10.2017 | TILmySchool Pausenkonzert</div>
+ Am 19.10.2017 in der 2. Pause fand im Innenhof unserer Schule ein kleines Konzert von der Band TIL statt.<br>   
+Die Band tourt dieses Jahr in ganz Deutschland und organisiert eine Konzertreihe “TIL my school” in verschiedenen Schulen. Wir waren dabei die 100. Schule.<br>
+Mehr Informationen zur Musikband findet Ihr auf <a href="http://www.til-official.com">til-official.com</a>. <br>
+Ein kleinen Einblick zu dem Auftritt in unserer Schule findet ihr <a href="https://www.youtube.com/watch?v=gj4HiEPrRiM
+">hier</a> (Minute 2:50 bis 3:32)
 </div>
-<br><br>
+<hr class="line">
+<div class="artikel">
+<img class="blog-img" alt="" src="./teaser/schule/schule7.jpg"><b>21.06.17 | Schulsozialarbeit Handy und Mediennutzung</b><br>
+Die Schulsozialarbeiterinnen laden ein, genauere Infos dazu <a href="./unsereschule/sozialarbeit/einladungzurveranstaltung.pdf" target="_blank">hier</a>.
+</div>
 <hr class="line">
 <br>
-<img src="/unsereschule/sozialarbeit/schulsozialarbeit.jpg" class="blog-img">
-<a href="/unsereschule/sozialarbeit/artikelSchulsozialarbeit.pdf" target="_blank">mehr Information</a>
+<img src="./unsereschule/sozialarbeit/schulsozialarbeit.jpg" class="blog-img">
+<a href="./unsereschule/sozialarbeit/artikelSchulsozialarbeit.pdf" target="_blank">mehr Information</a>
 <br>Per Mail sind sie unter sozial@dathe-gymnasium.cidsnet.de erreichbar.
 <br><br><br><br>
 <hr class="line">

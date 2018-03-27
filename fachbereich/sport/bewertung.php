@@ -2,17 +2,15 @@
 <div class="teaser">
 
     Der Sportunterricht und au&szlig;erunterrichtliche Sport an der Dathe-Oberschule widmet sich besonderen Grunds&auml;tzen der Sporterziehung. Die Leitidee unseres Schulsportkonzepts ist die Entwicklungsf&ouml;rderung und Lebensbereicherung jeder einzelnen Sch&uuml;lerin und jedes einzelnen Sch&uuml;lers.
-    <br> &nbsp;
-    <br> &nbsp;&nbsp; <a href="./sport.php">Hauptseite</a> /Notenbewertung / <a href="./gk_ski.php">Information
-GK-Ski</a> / <a href="./infopapiersek2.pdf">Infopapier:
-SekII</a>
-    <b>&raquo;Notenbewertung</b>
+    <br> 
+    
 
+ 
 
+    <br>
     <b>1. Teilbereich: Sachkompetenz (Leistungen in der
 sportlichen Sache) </b>
     <br>
-
     <br> Bewertung der durch &Uuml;berpr&uuml;fung ermittelten Leistungen
     <br>
 
@@ -43,10 +41,10 @@ Kompetenz </b>
     <br> Die einzelnen zu bewertenden Kompetenzbereiche sind nach der p&auml;dagogischen Schwerpunktsetzung anteilig festzulegen und entsprechend in der Bewertung zu ber&uuml;cksichtigen.
     <br>
 
-    <br> &raquo; zur <a href="./sport.php">Hauptseite
+    
 des
 Fachbereiches Sport</a>
-    <p>&raquo; Ansprechpartner f&uuml;r den Fachbereich Sport: Hr. Glowinski
+    <p>&raquo; Ansprechpartner f&uuml;r den Fachbereich Sport: Hr. Luzardo
         <br>
 
         <br> &raquo; Arbeitsgemeinschaften des Fachbereiches Sport und

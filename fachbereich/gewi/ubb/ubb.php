@@ -1,6 +1,6 @@
 <div class="titel">-Seminarkurs UBB-</div>
 <br>
-<img src="./fachbereich/gewi/ubb/Bilder/banner.jpg">
+<img src="./fachbereich/gewi/ubb/bilder/banner.jpg">
 
 <div class="subtitel">&gt;&gt; Aktuelles 2017 &lt;&lt;</div>
 <br> Unser diesjähriger Schüleraustausch hat Anfang April stattgefunden.
@@ -11,7 +11,7 @@
 
 <br>
 <br>
-<hr class="line">
+<hr>
 
 <div class="subtitel">&gt;&gt; Slowakeiaustausch 2015 &lt;&lt;</div>
 <br>
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<hr class="line">
+<hr>
 
 <div class="subtitel">&gt;&gt; Allgemein &lt;&lt;</div>
 <br>
@@ -47,13 +47,13 @@
 <br>
 <br>
 <br>
-<hr class="line">
+<hr>
 <u>Emily Grabo berichtete über ihre Japanreise</u>
 <br>
 <br> Die Schülerin Emily Grabo nahm am Unesco-Weltkongress für Erziehung und nachhaltige Entwicklung teil.
 <br> Weiteres erfahren sie <a href="http://www.berliner-woche.de/nachrichten/bezirk-friedrichshain-kreuzberg/friedrichshain/artikel/55927-emily-grabo-berichtete-ueber-ihre-japanreise/" target=_blank>hier</a>
 <br>
-<hr class="line">
+<hr>
 <br>
 
 
@@ -63,14 +63,14 @@
 <br> Weitere Informationen <a href="?sect=./schulleben/projekte/litterless/litterless">hier.</a>
 <br>
 
-<hr class="line">
+<hr>
 <b><u>Workshops</u></b>
 <br> Der Seminarkurs “Umwelt Baut Brücken” hat organisiert,
 <br> dass die Schüler an diversen Workshops für Journalismus in Zusammenarbeit mit “junge-reporter.org” teilnehmen konnten.
 <br> Auf diese Weise entstanden tolle Fotostrecken und Artikel zu Umweltthemen die nicht nur den Weg für gute Noten, sondern auch für die Teilnahme am “Litter Less” Wettbewerb und ein stärkeres Bewusstsein für Probleme mit Müll freimachten.
 <br>
 
-<hr class="line">
+<hr>
 <u>Besuch des  slowakischen Staatspräsidenten im Schloss Belvue</u>
 <br>
 <br> Am Mittwoch dem <b>26.2.2014</b> besuchte Ivan Gašparovic unseren Bundespräsidenten Joachim Gauck.
@@ -80,6 +80,9 @@
 <br> Die Vorbereitungen für diesen Austausch im April diesen Jahres sind auch schon im vollen Gange.
 <br>
 
-<hr class="line">
+<hr>
 <br>
 <a href="?sect=./schulleben/projekte/schueleraustausch/ubb/ubb"><b>Vergangene Austausche</b></a>
+<br>
+<br>
+<hr>

@@ -1,3 +1,5 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
 <?
 $picturepath="bilder/allgemein";
 ?>
@@ -13,7 +15,7 @@ var der=e;
 var be=b;
 run_scp();
 location.href="#bild";
-document.getElementById("bild_gross").innerHTML="<table><tr><td style=\"border:8px solid gray;\"><img src='<? echo $picturepath; ?>/"+der+".jpg' width=600 style=\"border:8px solid  white; height:450px;\"><br><div style=\"background-color:white;\"><table><tr><td width=10></td><td style=\"font-family:Verdana, sans serif; font-size:10pt; color:black;\" onmouseover=\"this.style.cursor='pointer'; \" onclick=\"run_former("+be+");\">zurï¿½ck</td><td style=\"font-family:Verdana, sans serif; font-size:10pt; color:black;\">|</td><td style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black;\" onmouseover=\"this.style.cursor='pointer';\" onclick=\"run_next("+be+");\">weiter</td><td width=50></td><td style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black;\">Galeriebild</td><td width=150 height=50 align=right onmouseover=\"this.style.cursor='pointer';\" onclick=\"run_scp(); location.href='#top';\"><span style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black; text-decoration:underline;\">Schliessen</span></td></tr></table></div></td></tr></table><br><br><br><br><br><br><br><br>";
+document.getElementById("bild_gross").innerHTML="<table><tr><td style=\"border:8px solid gray;\"><img src='<? echo $picturepath; ?>/"+der+".jpg' width=600 style=\"border:8px solid  white; height:450px;\"><br><div style=\"background-color:white;\"><table><tr><td width=10></td><td style=\"font-family:Verdana, sans serif; font-size:10pt; color:black;\" onmouseover=\"this.style.cursor='pointer'; \" onclick=\"run_former("+be+");\">zurück</td><td style=\"font-family:Verdana, sans serif; font-size:10pt; color:black;\">|</td><td style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black;\" onmouseover=\"this.style.cursor='pointer';\" onclick=\"run_next("+be+");\">weiter</td><td width=50></td><td style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black;\">Galeriebild</td><td width=150 height=50 align=right onmouseover=\"this.style.cursor='pointer';\" onclick=\"run_scp(); location.href='#top';\"><span style=\"font-family:Verdana, sans serif; font-size:10pt; align:right; color:black; text-decoration:underline;\">Schliessen</span></td></tr></table></div></td></tr></table><br><br><br><br><br><br><br><br>";
  //"opacity:0.2; filter:alpha(opacity=20);";
 }
 function run_scp(){
@@ -73,14 +75,14 @@ vor. <br>
         <tbody align="center"><center><table><tr>
 
 <?
-// ï¿½ffnet ein Unterverzeichnis mit dem Namen "daten"
+// Öffnet ein Unterverzeichnis mit dem Namen "daten"
 $verzeichnis = openDir($picturepath);
 // Verzeichnis lesen
 
 $anzahl=0;
 $zaehl=1;
 while ($file = readDir($verzeichnis)) {
- // Hï¿½here Verzeichnisse nicht anzeigen!
+ // Höhere Verzeichnisse nicht anzeigen!
  if ($file != "." && $file != ".." && $file != "Thumbs.db" && $file!="teaser") {
  $anzahl++;
  // Link erstellen
@@ -97,7 +99,7 @@ $zaehl=0;
   $zaehl++;
  }
 }
- // Verzeichnis schlieï¿½en
+ // Verzeichnis schließen
 closeDir($verzeichnis);
 ?>
 <script>
@@ -112,7 +114,7 @@ $verzeichnis = openDir($picturepath);
 $zaehl_b=0;
 $zaehl=1;
 while ($file = readDir($verzeichnis)) {
- // Hï¿½here Verzeichnisse nicht anzeigen!
+ // Höhere Verzeichnisse nicht anzeigen!
  if ($file != "." && $file != ".." && $file != "Thumbs.db" && $file != "teaser") {
  $anzahl++;
 
@@ -130,7 +132,7 @@ while ($file = readDir($verzeichnis)) {
  }
 }
 
- // Verzeichnis schlieï¿½en
+ // Verzeichnis schließen
 closeDir($verzeichnis);
  
 

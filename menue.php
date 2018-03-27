@@ -144,10 +144,21 @@
     </li>
 </ul>
 <div class="infobox">
-    Hier geht's zum <b>Login</b> unseres Schulessenanbieters
+    <div class="infobox-titel">Schulsozialarbeit</div>
+    Hier gibt's näheres zur 
+    <a href="?sect=./unsereschule/sozialarbeit/sozialarbeit" target="_blank"><b>Schulsozialarbeit</b></a>
+</div>
+
+<div class="infobox">
+    <div class="infobox-titel">Anbieter</div>
+    <b>Essensanbieter</b><br>
+    Hier geht's zum Login unseres Schulessenanbieters
     <br>
+    <a href="https://drei-koeche.brunchatschool.net/extern/login.php" target="_blank">drei Köche</a>.
     <br>
-    <a href="https://drei-koeche.brunchatschool.net/extern/login.php" target="_blank"><b>"drei Köche"</b></a>
+     <br><b>Schließfächer</b>
+    <br><a href="http://www.astradirekt.de" target="_blank">Schließfächer für Schüler</a> jetzt bei Astra Direkt in der
+    Schule bestellen.
 </div>
 
 <div class="infobox">
@@ -156,24 +167,11 @@
     <br>
     <a href="http://www.cidsnet.de" target="blank"><img src="./static/bilder/logos/cids.png" alt="Cidsnet Logo"></a>
     <br>
-    <br>
-    <br>
-    <strong>Sparkasse</strong>
-    <br>
-    <a href="http://www.sparkasse.de" target="blank">
-        <img src="./static/bilder/logos/sparkasse.png" alt="Sparkassen Logo" class="bild-xl">
-    </a>
-
-
-    <br>
-    <br><strong>Schließfächer</strong>
-    <br><b>AstraDirekt</b>
-    <br><a href="http://www.astradirekt.de" target="_blank">Schließfächer für Schüler</a> jetzt bei Astra Direkt in der
-    Schule bestellen.
 </div>
 
+
 <div class="text-mittig">
-    &copy; 1999 - 2017<br>
+    &copy; 1999 - 2018<br>
     Mit <a title="ICRA, die Zertifizierungsstelle für Onlineinhalte" href="http://www.icra.org" target="_blank">ICRA</a>
     signiert
 </div>

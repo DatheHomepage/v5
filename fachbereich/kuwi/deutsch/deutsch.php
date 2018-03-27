@@ -13,17 +13,14 @@ Schreibkompetenz der Sch&uuml;ler f&ouml;rdern. <br>
     Der
     praxisnahe Unterricht...</p>
 <h3> Aktuell: </h3>
-<b>Literarischer Besuch in der 10c (Prb)</b><br>
-Am Donnerstag (11.06.15) besuchte Ingo Schulze die Klasse 10c, um sich Deutschunterricht an unserer Schule
-anzusehen<br>
-und dann mit der Klasse ins Gespräch zu kommen. <br>
-Auch in der kommenden Woche wird er wieder bei uns sein und im Anschluss für das SZ-Magazin eine durch seine
-Besuche inspirierte Kurzgeschichte
-zu schreiben. Falls Sie also eines seiner Bücher signieren lassen möchten,
-besuchen Sie uns doch bitte am Ende des ersten Blockes am Donnerstag in R317!<br>
 <br>
-<br>
+<b>15.02.2018 | Lesenacht der 12. Klasse!</b><br>
+Ein Abend voller Überraschungen - aus 30 kleinen, literarischen Minuten wurden 3 Stunden voller berührender und amüsanter Momente.
+Die "Lesenacht" des Dathe-Gymnasium erwies sich als großer Erfolg: Gedimmtes Licht, familiäre Atmosphäre, hohe und tiefe Stimmen, welche selbstgeschriebene und fremde Texte vortrugen, fesselten die Zuhörer.
+Philosophische, politische und makabre Beiträge - welche von einem gewitzten Moderator gelungen angekündigt und eingeführt wurden - schufen gemeinsame Momente des Lachens und des Nachdenkens. Eine sinnlich-beruhigende Gitarrenbegleitung ließ dem Zuschauer Raum zum Nachklingen der eindrucksvollen Texte.
 
+<div id="galerie"></div>
+<hr class="line">
 
 Unsere Schule verändert sich, das ist unter anderem im Raum 205 zu sehen. <br>
 Bereits Anfang November wurde vermessen, geräumt, verspachtelt, gemalert, wieder geräumt,
@@ -40,7 +37,7 @@ Danke, Fr. Bading, Verantwortliche für R 205 14.01.2014
 <br>
 &raquo; <a href="?sect=./fachbereich/nawi/biologie/kursfahrt2015">Bericht der <b>Kursfahrt nach Italien
         2015</b></a><br><br>
-&raquo; <a href="./kursbericht.pdf" target="_blank">Bericht der <b>Kursfahrt nach Italien 2013</b></a><br>
+&raquo; <a href="./fachbereich/kuwi/deutsch/kursbericht.pdf" target="_blank">Bericht der <b>Kursfahrt nach Italien 2013</b></a><br>
 <br>
 <hr class="line">
 <br>
@@ -109,4 +106,4 @@ fb.deutsch(at)dathe-gymnasium.cidsnet.de
 <br>
 <br>
 
-<div id="galerie"></div>
+

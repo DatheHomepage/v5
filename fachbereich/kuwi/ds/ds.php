@@ -20,7 +20,7 @@ Ergebnissen in Form von Auff&uuml;hrungen. <br>
  <hr color="#000000" size="1"><br> 
 
 			
-<div class="teaser"	<b> DS - Aufführung 2012</b><br>
+<div class="teaser">	<b> DS - Aufführung 2012</b><br>
 
 Im zweiten Jahr der Oberstufe steht die Erarbeitung eines Projektes im
 Mittelpunkt der Arbeit.
@@ -30,8 +30,8 @@ Der andere Kurs beschäftigt sich mit der Problematik der Organspende und
 päsentierte eine Reihe eindrucksvoller Szenen zu diesem Thema. Die
 Spielfläche wurde erstmals auch auf die Straße verlegt.<br>
 
-<img src="./fachbereich/kuwi/ds/bilder/ds_02.jpg"><br>
-<b>Szene aus: Das Leben ist (k)ein Autohof</b><br>
+<!--<img src="./fachbereich/kuwi/ds/bilder/ds_02.jpg"><br>
+<b>Szene aus: Das Leben ist (k)ein Autohof</b><br>-->
 <img src="./fachbereich/kuwi/ds/bilder/ds_01.jpg"><br>
 <b>Szene aus: Menschen auf Raten</b>
 

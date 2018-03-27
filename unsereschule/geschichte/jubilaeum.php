@@ -1,4 +1,13 @@
+<?php $bilder="bilder_jubilaeum" ?>
 <div class="titel">-&nbsp;Höhepunkte am Dathe-Gymnasium -</div>
+<div class="subtitel">60. Jubiläum der Biologiestation</div>
+<p>Zur Festveranstaltung am 21.09.2017 gratulierten viele Gäste. Wir bedanken uns bei der Bezirksbürgermeisterin Frau Herrmann, dem Bezirksstadtrat Herrn Hemke, der leitenden Schulrätin Frau Anders-Neufang und bei Dr. Falk Dathe, einem Sohn unseres Namensgebers.
+Der Förderverein des Tierpark überreichte einen Spendenscheck, über den wir uns bzw. sich unsere Tiere freuen. Die Schüler*innen der 6B führten Texte aus dem "Gericht der Tiere" auf.
+Am 22.09. 2017 übergab die Schülergemeinschaft auf dem Schulhof eine Glückwunschkarte an unsere Schulleiterin.</p>
+<div id="galerie"></div>
+<p>Pressemitteilung <a href="./biologiestation/biostation_pressemitteilung.pdf">hier.</a></p>
+<hr>
+<strong>Schulgeschichte</strong><br><br>
 Unser Schulgeb&auml;ude wurde nach einem Entwurf von
 Stadtbaudirektor Hoffmann in den Jahren 1907/08 als
 Gemeindedoppelschule errichtet und im Jahre 1909 den
@@ -75,9 +84,7 @@ Schulische Veranstaltungen
 
 </ul>
 
-<hr>
-
-<div class="teaser"><strong>Festakt 50 Jahre Biologiestation</strong>...<br>
+<!--<div class="teaser"><strong>Festakt 50 Jahre Biologiestation</strong>...<br>
 
     <img src="/unsereschule/geschichte/biofest_50.jpg"><br>
     <strong>25.01.2008</strong>
@@ -130,6 +137,6 @@ Schulische Veranstaltungen
 
     <br>
 
-</div>
+</div>-->
 
 

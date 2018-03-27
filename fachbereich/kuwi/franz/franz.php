@@ -1,14 +1,13 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-
-  <link type="text/css" href="../../../dathe-os.css" rel="stylesheet">
-  <title></title>
-</head>
-
-<body style="background-color: transparent;" leftmargin="0" topmargin="0" alink="#000000" link="#000000" vlink="#000000">
+﻿
 <div class="titel">- Franz&ouml;sisch -</div>
 <br>
+<div class="artikel">
+<div class="artikel-titel">22.11.2017 | Bienvenue à Berlin</div>
+….heißt es  zum Empfang der 21 französischen Schülerinnen und Schüler unserer Partnerschule „Lycée Docteur Lacroix“ in Narbonne . Im Rahmen des diesjährigen Frankreichaustausches sind sie vom  29.11. bis zum 6.12. an unserer Schule zu Gast  und verbringen eine  Woche mit Schülerinnen und Schülern unseres 9. und 10. Jahrgangs. <br> <br>
+    
+    <img class="bild-s" alt="Hier wäre ein Bild..." src="./fachbereich/kuwi/franz/franz.jpg">
+      
+    </div>
 <div class="teaser">
 Am Dathe-Gymnasium werden insgesamt drei Fremdsprachen gelehrt.
 Zu Englisch als erste Fremdsprache können <strong>Franz&ouml;sisch</strong>
@@ -182,5 +181,4 @@ fb.fremdsprachen(at)dathe-gymnasium.cidsnet.de<br>
 
 
 
-</body>
-</html>
+

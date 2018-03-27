@@ -1,17 +1,13 @@
-
-
-<b>Aktuell</b> <br>
-<a href="./unsereschule/schulprofil/begabung/anmeldforscherAG2017_18.pdf" target="_blank"><br>Anmeldung Forscher-AG für neues Schuljahr</a>
-<br><br>
-10.07.-14.07. <b>Fahrten-und Projektwoche</b> <br><br>
-<b>Mo, 17.7. Wandertag</b> <br>
-<b>Di, 18.7. Sport- und Spieletag</b> <br>
-<b>Mi, 19.7. 3. Stunde</b> <br>
-Zeugnisausgabe, ab 4.Std. unterrichtsfrei 
-<!--<br>
-7.2. - 21.2.<br>
-<b>Anmeldungen </b><br>
-für die neuen 7. Kl.<br>
+<a href="./organisation/wochen_uebersicht.pdf" target="_BLANK">Übersicht der A/B-Wochen</a>
 <br>
-20.01.17 16.00-19.00 Uhr<br>
-<b>Tag der offenen Tür </b><br>-->
+
+
+<br>20./21.03.<br>
+Theateraufführung Q4/Q2<br>
+21.03.<br>
+SoR/SmC-Projekttag für Jg.10/Q2<br>
+<br>Anmeldezeitraum<br>
+neue 7. Klasse 13.02. bis 21.02.2018<br>
+<br>neue 5. Klasse 27.02. bis 06.03.2018<br>
+<br> 24.04.<br>
+2.Elternsprechtag ab 17.00<br>

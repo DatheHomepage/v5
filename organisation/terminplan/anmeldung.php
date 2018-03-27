@@ -17,7 +17,7 @@
 		naturwissenschaftlichen Fächern nachweisen. Bitte vereinbaren Sie bei Interesse an einem 
 		solchen Quereinstieg mit der Schulleiterin ein Aufnahmegespräch.<br><br>
 		<div class="subtitel">Aufnahme in die neuen Klassen des kommenden Schuljahres</div><br>
-		<div class="artikel">
+		<div class="article">
 		 <a href="./organisation/aufnahmeKlasse5_7.pdf" target="_blank">Neuaufnahmen</a><br>
         </div>
         <br>
@@ -27,7 +27,7 @@
         <br> die bei der Suche nach einer Schule bereitgehalten werden sollten, informieren.
         <br>
         <br>
-       <div class="artikel">
+       <div class="article">
         <a href="./organisation/datheFlyer.pdf" target="_blank">Flyer zur Dathe-OS </a>
 		</div>
         <br>

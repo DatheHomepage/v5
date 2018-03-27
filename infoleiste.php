@@ -1,8 +1,9 @@
+<!--
 <div class="infobox infobox-wichtig">
     <div class="infobox-titel">Hinweis</div>
-    Diese Seite wird zurzeit aktualisiert. Aus diesem Grund wird es wohl noch zu Fehlern kommen.
+    Diese Seite wird wöchentlich aktualisiert. Mitunter kommt es aber auch noch zu kleinen Fehlern.
 </div>
-
+-->
 <div class="infobox">
     <div class="infobox-titel">AKTUELL</div>
     <?php include "aktuell@teaser.php" ?>
@@ -28,7 +29,7 @@
     <br>10243 Berlin
     <br>Telefon: 030/29 36 063
     <br>Fax: 030/29 36 06 415
-    <br>E-mail(Sekretariat)
+    <br>E-Mail(Sekretariat)
     <br>Frau Pohl:
 
 
